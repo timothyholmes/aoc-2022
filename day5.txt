@@ -1,0 +1,2641 @@
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'S'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'W'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'S'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'W'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+
+instruction move 1 from 7 to 4
+instruction index 0
+crate W
+start 7
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L', 'W'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'S'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L', 'W'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'S'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+
+instruction move 1 from 6 to 2
+instruction index 1
+crate S
+start 6
+end 2
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L', 'W'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L', 'W'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D', 'S' ]
+]
+
+instruction move 5 from 9 to 4
+instruction index 2
+crate S
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G',
+    'W', 'V', 'Q',
+    'L', 'W', 'S'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F', 'D' ]
+]
+
+instruction move 5 from 9 to 4
+instruction index 2
+crate D
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L', 'F' ]
+]
+
+instruction move 5 from 9 to 4
+instruction index 2
+crate F
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q', 'L' ]
+]
+
+instruction move 5 from 9 to 4
+instruction index 2
+crate L
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M', 'Q' ]
+]
+
+instruction move 5 from 9 to 4
+instruction index 2
+crate Q
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N', 'S' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M'
+  ],
+  [ 'M' ]
+]
+
+instruction move 2 from 2 to 8
+instruction index 3
+crate S
+start 2
+end 8
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D', 'N' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W',
+    'D', 'J', 'N',
+    'R', 'M', 'S'
+  ],
+  [ 'M' ]
+]
+
+instruction move 2 from 2 to 8
+instruction index 3
+crate N
+start 2
+end 8
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T', 'D' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [ 'V', 'Z', 'Q', 'G', 'H', 'F' ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 2 from 2 to 6
+instruction index 4
+crate D
+start 2
+end 6
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H', 'T' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 2 from 2 to 6
+instruction index 4
+crate T
+start 2
+end 6
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B', 'F', 'M', 'D' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 3 to 7
+instruction index 5
+crate D
+start 3
+end 7
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B', 'F', 'M' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'D'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 3 to 7
+instruction index 5
+crate M
+start 3
+end 7
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B', 'F' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'D', 'M'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 3 to 7
+instruction index 5
+crate F
+start 3
+end 7
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N', 'R',
+    'L', 'T', 'C', 'D',
+    'M', 'F'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N', 'R',
+    'L', 'T', 'C', 'D',
+    'M', 'F'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 7 to 1
+instruction index 6
+crate F
+start 7
+end 1
+stacks [
+  [ 'B', 'Z', 'T', 'F' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'D', 'M'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 7 to 1
+instruction index 6
+crate M
+start 7
+end 1
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C', 'D'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 7 to 1
+instruction index 6
+crate D
+start 7
+end 1
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  [ 'M' ]
+]
+
+instruction move 1 from 9 to 4
+instruction index 7
+crate M
+start 9
+end 4
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+pre stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [
+    'Z', 'S', 'N',
+    'R', 'L', 'T',
+    'C'
+  ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+
+instruction move 4 from 7 to 3
+instruction index 8
+crate C
+start 7
+end 3
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N', 'R', 'L', 'T' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+
+instruction move 4 from 7 to 3
+instruction index 8
+crate T
+start 7
+end 3
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N', 'R', 'L' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+
+instruction move 4 from 7 to 3
+instruction index 8
+crate L
+start 7
+end 3
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N', 'R' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+
+instruction move 4 from 7 to 3
+instruction index 8
+crate R
+start 7
+end 3
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+pre stacks [
+  [ 'B', 'Z', 'T', 'F', 'M', 'D' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N'
+  ],
+  []
+]
+
+instruction move 5 from 1 to 8
+instruction index 9
+crate D
+start 1
+end 8
+stacks [
+  [ 'B', 'Z', 'T', 'F', 'M' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D'
+  ],
+  []
+]
+
+instruction move 5 from 1 to 8
+instruction index 9
+crate M
+start 1
+end 8
+stacks [
+  [ 'B', 'Z', 'T', 'F' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M'
+  ],
+  []
+]
+
+instruction move 5 from 1 to 8
+instruction index 9
+crate F
+start 1
+end 8
+stacks [
+  [ 'B', 'Z', 'T' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F'
+  ],
+  []
+]
+
+instruction move 5 from 1 to 8
+instruction index 9
+crate T
+start 1
+end 8
+stacks [
+  [ 'B', 'Z' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T'
+  ],
+  []
+]
+
+instruction move 5 from 1 to 8
+instruction index 9
+crate Z
+start 1
+end 8
+stacks [
+  [ 'B' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  []
+]
+pre stacks [
+  [ 'B' ],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  []
+]
+
+instruction move 1 from 1 to 2
+instruction index 10
+crate B
+start 1
+end 2
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  []
+]
+pre stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'M'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  []
+]
+
+instruction move 1 from 4 to 9
+instruction index 11
+crate M
+start 4
+end 9
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q', 'M'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+
+instruction move 4 from 5 to 6
+instruction index 12
+crate M
+start 5
+end 6
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [
+    'W', 'D', 'G',
+    'P', 'V', 'F',
+    'Q'
+  ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+
+instruction move 4 from 5 to 6
+instruction index 12
+crate Q
+start 5
+end 6
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G', 'P', 'V', 'F' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+
+instruction move 4 from 5 to 6
+instruction index 12
+crate F
+start 5
+end 6
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G', 'P', 'V' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+
+instruction move 4 from 5 to 6
+instruction index 12
+crate V
+start 5
+end 6
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G', 'P' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G', 'P' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z'
+  ],
+  [ 'M' ]
+]
+
+instruction move 1 from 5 to 8
+instruction index 13
+crate P
+start 5
+end 8
+stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [],
+  [ 'V', 'H', 'B' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 2 to 4
+instruction index 14
+crate B
+start 2
+end 4
+stacks [
+  [],
+  [ 'V', 'H' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'B'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 2 to 4
+instruction index 14
+crate H
+start 2
+end 4
+stacks [
+  [],
+  [ 'V' ],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'B', 'H'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 2 to 4
+instruction index 14
+crate V
+start 2
+end 4
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'B', 'H', 'V'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W',
+    'V', 'Q', 'L', 'W',
+    'S', 'D', 'F', 'L',
+    'Q', 'B', 'H', 'V'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F', 'V'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 6 to 4
+instruction index 15
+crate V
+start 6
+end 4
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q', 'F'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 6 to 4
+instruction index 15
+crate F
+start 6
+end 4
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q', 'G',
+    'H', 'F', 'D', 'T',
+    'M', 'Q'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 6 to 4
+instruction index 15
+crate Q
+start 6
+end 4
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [ 'W', 'D', 'G' ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M' ]
+]
+
+instruction move 3 from 5 to 9
+instruction index 16
+crate G
+start 5
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [ 'W', 'D' ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G' ]
+]
+
+instruction move 3 from 5 to 9
+instruction index 16
+crate D
+start 5
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [ 'W' ],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G', 'D' ]
+]
+
+instruction move 3 from 5 to 9
+instruction index 16
+crate W
+start 5
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G', 'D', 'W' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G', 'D', 'W' ]
+]
+
+instruction move 1 from 9 to 7
+instruction index 17
+crate W
+start 9
+end 7
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N', 'W' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G', 'D' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N', 'W' ],
+  [
+    'Z', 'H', 'W', 'D',
+    'J', 'N', 'R', 'M',
+    'S', 'N', 'D', 'M',
+    'F', 'T', 'Z', 'P'
+  ],
+  [ 'M', 'G', 'D' ]
+]
+
+instruction move 1 from 9 to 8
+instruction index 18
+crate D
+start 9
+end 8
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N', 'W' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N', 'W' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G' ]
+]
+
+instruction move 2 from 7 to 9
+instruction index 19
+crate W
+start 7
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S', 'N' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 2 from 7 to 9
+instruction index 19
+crate N
+start 7
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G', 'W', 'N' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z', 'S' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G', 'W', 'N' ]
+]
+
+instruction move 1 from 7 to 9
+instruction index 20
+crate S
+start 7
+end 9
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G', 'W', 'N', 'S' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [ 'Z' ],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D'
+  ],
+  [ 'M', 'G', 'W', 'N', 'S' ]
+]
+
+instruction move 1 from 7 to 8
+instruction index 21
+crate Z
+start 7
+end 8
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z'
+  ],
+  [ 'M', 'G', 'W', 'N', 'S' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z'
+  ],
+  [ 'M', 'G', 'W', 'N', 'S' ]
+]
+
+instruction move 2 from 9 to 8
+instruction index 22
+crate S
+start 9
+end 8
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S'
+  ],
+  [ 'M', 'G', 'W', 'N' ]
+]
+
+instruction move 2 from 9 to 8
+instruction index 22
+crate N
+start 9
+end 8
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L', 'R' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 13 from 4 to 2
+instruction index 23
+crate R
+start 3
+end 4
+stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+pre stacks [
+  [],
+  [],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T', 'M'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 2 from 6 to 1
+instruction index 24
+crate M
+start 6
+end 1
+stacks [
+  [ 'M' ],
+  [],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D', 'T'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 2 from 6 to 1
+instruction index 24
+crate T
+start 6
+end 1
+stacks [
+  [ 'M', 'T' ],
+  [],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+pre stacks [
+  [ 'M', 'T' ],
+  [],
+  [ 'B', 'C', 'T', 'L' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 3 from 3 to 2
+instruction index 25
+crate L
+start 3
+end 2
+stacks [
+  [ 'M', 'T' ],
+  [ 'L' ],
+  [ 'B', 'C', 'T' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 3 from 3 to 2
+instruction index 25
+crate T
+start 3
+end 2
+stacks [
+  [ 'M', 'T' ],
+  [ 'L', 'T' ],
+  [ 'B', 'C' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
+
+instruction move 3 from 3 to 2
+instruction index 25
+crate C
+start 3
+end 2
+stacks [
+  [ 'M', 'T' ],
+  [ 'L', 'T', 'C' ],
+  [ 'B' ],
+  [
+    'T', 'J', 'G', 'W', 'V',
+    'Q', 'L', 'W', 'S', 'D',
+    'F', 'L', 'Q', 'B', 'H',
+    'V', 'V', 'F', 'Q', 'R'
+  ],
+  [],
+  [
+    'V', 'Z', 'Q',
+    'G', 'H', 'F',
+    'D'
+  ],
+  [],
+  [
+    'Z', 'H', 'W', 'D', 'J',
+    'N', 'R', 'M', 'S', 'N',
+    'D', 'M', 'F', 'T', 'Z',
+    'P', 'D', 'Z', 'S', 'N'
+  ],
+  [ 'M', 'G', 'W' ]
+]
