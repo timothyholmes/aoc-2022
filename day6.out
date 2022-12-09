@@ -1,0 +1,8144 @@
+Print storage=
+
+
+Print storage=m
+
+
+Print storage=m,n
+
+
+has search=n storage=m,n,l
+Print storage=m,n,l
+
+
+has search=v storage=n,l,n
+isUnique set=n,l result=false
+Print storage=n,l,n
+
+
+has search=l storage=l,n,v
+Print storage=l,n,v
+
+
+has search=l storage=n,v,l
+Print storage=n,v,l
+
+
+has search=j storage=v,l,l
+isUnique set=v,l result=false
+Print storage=v,l,l
+
+
+has search=q storage=l,l,j
+isUnique set=l,j result=false
+Print storage=l,l,j
+
+
+has search=q storage=l,j,q
+Print storage=l,j,q
+
+
+has search=c storage=j,q,q
+isUnique set=j,q result=false
+Print storage=j,q,q
+
+
+has search=c storage=q,q,c
+Print storage=q,q,c
+
+
+has search=z storage=q,c,c
+isUnique set=q,c result=false
+Print storage=q,c,c
+
+
+has search=n storage=c,c,z
+isUnique set=c,z result=false
+Print storage=c,c,z
+
+
+has search=n storage=c,z,n
+Print storage=c,z,n
+
+
+has search=j storage=z,n,n
+isUnique set=z,n result=false
+Print storage=z,n,n
+
+
+has search=t storage=n,n,j
+isUnique set=n,j result=false
+Print storage=n,n,j
+
+
+has search=j storage=n,j,t
+Print storage=n,j,t
+
+
+has search=l storage=j,t,j
+isUnique set=j,t result=false
+Print storage=j,t,j
+
+
+has search=j storage=t,j,l
+Print storage=t,j,l
+
+
+has search=b storage=j,l,j
+isUnique set=j,l result=false
+Print storage=j,l,j
+
+
+has search=l storage=l,j,b
+Print storage=l,j,b
+
+
+has search=l storage=j,b,l
+Print storage=j,b,l
+
+
+has search=r storage=b,l,l
+isUnique set=b,l result=false
+Print storage=b,l,l
+
+
+has search=t storage=l,l,r
+isUnique set=l,r result=false
+Print storage=l,l,r
+
+
+has search=l storage=l,r,t
+Print storage=l,r,t
+
+
+has search=l storage=r,t,l
+Print storage=r,t,l
+
+
+has search=w storage=t,l,l
+isUnique set=t,l result=false
+Print storage=t,l,l
+
+
+has search=w storage=l,l,w
+Print storage=l,l,w
+
+
+has search=p storage=l,w,w
+isUnique set=l,w result=false
+Print storage=l,w,w
+
+
+has search=m storage=w,w,p
+isUnique set=w,p result=false
+Print storage=w,w,p
+
+
+has search=m storage=w,p,m
+Print storage=w,p,m
+
+
+has search=h storage=p,m,m
+isUnique set=p,m result=false
+Print storage=p,m,m
+
+
+has search=j storage=m,m,h
+isUnique set=m,h result=false
+Print storage=m,m,h
+
+
+has search=j storage=m,h,j
+Print storage=m,h,j
+
+
+has search=b storage=h,j,j
+isUnique set=h,j result=false
+Print storage=h,j,j
+
+
+has search=b storage=j,j,b
+Print storage=j,j,b
+
+
+has search=z storage=j,b,b
+isUnique set=j,b result=false
+Print storage=j,b,b
+
+
+has search=p storage=b,b,z
+isUnique set=b,z result=false
+Print storage=b,b,z
+
+
+has search=p storage=b,z,p
+Print storage=b,z,p
+
+
+has search=n storage=z,p,p
+isUnique set=z,p result=false
+Print storage=z,p,p
+
+
+has search=n storage=p,p,n
+Print storage=p,p,n
+
+
+has search=d storage=p,n,n
+isUnique set=p,n result=false
+Print storage=p,n,n
+
+
+has search=m storage=n,n,d
+isUnique set=n,d result=false
+Print storage=n,n,d
+
+
+has search=m storage=n,d,m
+Print storage=n,d,m
+
+
+has search=s storage=d,m,m
+isUnique set=d,m result=false
+Print storage=d,m,m
+
+
+has search=p storage=m,m,s
+isUnique set=m,s result=false
+Print storage=m,m,s
+
+
+has search=p storage=m,s,p
+Print storage=m,s,p
+
+
+has search=d storage=s,p,p
+isUnique set=s,p result=false
+Print storage=s,p,p
+
+
+has search=q storage=p,p,d
+isUnique set=p,d result=false
+Print storage=p,p,d
+
+
+has search=q storage=p,d,q
+Print storage=p,d,q
+
+
+has search=w storage=d,q,q
+isUnique set=d,q result=false
+Print storage=d,q,q
+
+
+has search=v storage=q,q,w
+isUnique set=q,w result=false
+Print storage=q,q,w
+
+
+has search=v storage=q,w,v
+Print storage=q,w,v
+
+
+has search=s storage=w,v,v
+isUnique set=w,v result=false
+Print storage=w,v,v
+
+
+has search=t storage=v,v,s
+isUnique set=v,s result=false
+Print storage=v,v,s
+
+
+has search=v storage=v,s,t
+Print storage=v,s,t
+
+
+has search=s storage=s,t,v
+Print storage=s,t,v
+
+
+has search=s storage=t,v,s
+Print storage=t,v,s
+
+
+has search=g storage=v,s,s
+isUnique set=v,s result=false
+Print storage=v,s,s
+
+
+has search=m storage=s,s,g
+isUnique set=s,g result=false
+Print storage=s,s,g
+
+
+has search=s storage=s,g,m
+Print storage=s,g,m
+
+
+has search=g storage=g,m,s
+Print storage=g,m,s
+
+
+has search=g storage=m,s,g
+Print storage=m,s,g
+
+
+has search=m storage=s,g,g
+isUnique set=s,g result=false
+Print storage=s,g,g
+
+
+has search=l storage=g,g,m
+isUnique set=g,m result=false
+Print storage=g,g,m
+
+
+has search=m storage=g,m,l
+Print storage=g,m,l
+
+
+has search=t storage=m,l,m
+isUnique set=m,l result=false
+Print storage=m,l,m
+
+
+has search=t storage=l,m,t
+Print storage=l,m,t
+
+
+has search=n storage=m,t,t
+isUnique set=m,t result=false
+Print storage=m,t,t
+
+
+has search=v storage=t,t,n
+isUnique set=t,n result=false
+Print storage=t,t,n
+
+
+has search=v storage=t,n,v
+Print storage=t,n,v
+
+
+has search=f storage=n,v,v
+isUnique set=n,v result=false
+Print storage=n,v,v
+
+
+has search=b storage=v,v,f
+isUnique set=v,f result=false
+Print storage=v,v,f
+
+
+has search=b storage=v,f,b
+Print storage=v,f,b
+
+
+has search=d storage=f,b,b
+isUnique set=f,b result=false
+Print storage=f,b,b
+
+
+has search=s storage=b,b,d
+isUnique set=b,d result=false
+Print storage=b,b,d
+
+
+has search=s storage=b,d,s
+Print storage=b,d,s
+
+
+has search=s storage=d,s,s
+Print storage=d,s,s
+
+
+has search=n storage=s,s,s
+isUnique set=s result=false
+Print storage=s,s,s
+
+
+has search=z storage=s,s,n
+isUnique set=s,n result=false
+Print storage=s,s,n
+
+
+has search=z storage=s,n,z
+Print storage=s,n,z
+
+
+has search=b storage=n,z,z
+isUnique set=n,z result=false
+Print storage=n,z,z
+
+
+has search=s storage=z,z,b
+isUnique set=z,b result=false
+Print storage=z,z,b
+
+
+has search=s storage=z,b,s
+Print storage=z,b,s
+
+
+has search=j storage=b,s,s
+isUnique set=b,s result=false
+Print storage=b,s,s
+
+
+has search=r storage=s,s,j
+isUnique set=s,j result=false
+Print storage=s,s,j
+
+
+has search=s storage=s,j,r
+Print storage=s,j,r
+
+
+has search=j storage=j,r,s
+Print storage=j,r,s
+
+
+has search=j storage=r,s,j
+Print storage=r,s,j
+
+
+has search=p storage=s,j,j
+isUnique set=s,j result=false
+Print storage=s,j,j
+
+
+has search=m storage=j,j,p
+isUnique set=j,p result=false
+Print storage=j,j,p
+
+
+has search=p storage=j,p,m
+Print storage=j,p,m
+
+
+has search=v storage=p,m,p
+isUnique set=p,m result=false
+Print storage=p,m,p
+
+
+has search=m storage=m,p,v
+Print storage=m,p,v
+
+
+has search=m storage=p,v,m
+Print storage=p,v,m
+
+
+has search=c storage=v,m,m
+isUnique set=v,m result=false
+Print storage=v,m,m
+
+
+has search=j storage=m,m,c
+isUnique set=m,c result=false
+Print storage=m,m,c
+
+
+has search=j storage=m,c,j
+Print storage=m,c,j
+
+
+has search=w storage=c,j,j
+isUnique set=c,j result=false
+Print storage=c,j,j
+
+
+has search=s storage=j,j,w
+isUnique set=j,w result=false
+Print storage=j,j,w
+
+
+has search=s storage=j,w,s
+Print storage=j,w,s
+
+
+has search=s storage=w,s,s
+Print storage=w,s,s
+
+
+has search=n storage=s,s,s
+isUnique set=s result=false
+Print storage=s,s,s
+
+
+has search=d storage=s,s,n
+isUnique set=s,n result=false
+Print storage=s,s,n
+
+
+has search=s storage=s,n,d
+Print storage=s,n,d
+
+
+has search=s storage=n,d,s
+Print storage=n,d,s
+
+
+has search=l storage=d,s,s
+isUnique set=d,s result=false
+Print storage=d,s,s
+
+
+has search=w storage=s,s,l
+isUnique set=s,l result=false
+Print storage=s,s,l
+
+
+has search=s storage=s,l,w
+Print storage=s,l,w
+
+
+has search=s storage=l,w,s
+Print storage=l,w,s
+
+
+has search=w storage=w,s,s
+Print storage=w,s,s
+
+
+has search=t storage=s,s,w
+isUnique set=s,w result=false
+Print storage=s,s,w
+
+
+has search=w storage=s,w,t
+Print storage=s,w,t
+
+
+has search=n storage=w,t,w
+isUnique set=w,t result=false
+Print storage=w,t,w
+
+
+has search=w storage=t,w,n
+Print storage=t,w,n
+
+
+has search=r storage=w,n,w
+isUnique set=w,n result=false
+Print storage=w,n,w
+
+
+has search=r storage=n,w,r
+Print storage=n,w,r
+
+
+has search=s storage=w,r,r
+isUnique set=w,r result=false
+Print storage=w,r,r
+
+
+has search=l storage=r,r,s
+isUnique set=r,s result=false
+Print storage=r,r,s
+
+
+has search=s storage=r,s,l
+Print storage=r,s,l
+
+
+has search=h storage=s,l,s
+isUnique set=s,l result=false
+Print storage=s,l,s
+
+
+has search=h storage=l,s,h
+Print storage=l,s,h
+
+
+has search=v storage=s,h,h
+isUnique set=s,h result=false
+Print storage=s,h,h
+
+
+has search=z storage=h,h,v
+isUnique set=h,v result=false
+Print storage=h,h,v
+
+
+has search=z storage=h,v,z
+Print storage=h,v,z
+
+
+has search=s storage=v,z,z
+isUnique set=v,z result=false
+Print storage=v,z,z
+
+
+has search=p storage=z,z,s
+isUnique set=z,s result=false
+Print storage=z,z,s
+
+
+has search=p storage=z,s,p
+Print storage=z,s,p
+
+
+has search=f storage=s,p,p
+isUnique set=s,p result=false
+Print storage=s,p,p
+
+
+has search=f storage=p,p,f
+Print storage=p,p,f
+
+
+has search=m storage=p,f,f
+isUnique set=p,f result=false
+Print storage=p,f,f
+
+
+has search=p storage=f,f,m
+isUnique set=f,m result=false
+Print storage=f,f,m
+
+
+has search=f storage=f,m,p
+Print storage=f,m,p
+
+
+has search=m storage=m,p,f
+Print storage=m,p,f
+
+
+has search=m storage=p,f,m
+Print storage=p,f,m
+
+
+has search=f storage=f,m,m
+Print storage=f,m,m
+
+
+has search=v storage=m,m,f
+isUnique set=m,f result=false
+Print storage=m,m,f
+
+
+has search=f storage=m,f,v
+Print storage=m,f,v
+
+
+has search=p storage=f,v,f
+isUnique set=f,v result=false
+Print storage=f,v,f
+
+
+has search=f storage=v,f,p
+Print storage=v,f,p
+
+
+has search=p storage=f,p,f
+Print storage=f,p,f
+
+
+has search=s storage=p,f,p
+isUnique set=p,f result=false
+Print storage=p,f,p
+
+
+has search=s storage=f,p,s
+Print storage=f,p,s
+
+
+has search=s storage=p,s,s
+Print storage=p,s,s
+
+
+has search=q storage=s,s,s
+isUnique set=s result=false
+Print storage=s,s,s
+
+
+has search=p storage=s,s,q
+isUnique set=s,q result=false
+Print storage=s,s,q
+
+
+has search=q storage=s,q,p
+Print storage=s,q,p
+
+
+has search=z storage=q,p,q
+isUnique set=q,p result=false
+Print storage=q,p,q
+
+
+has search=p storage=p,q,z
+Print storage=p,q,z
+
+
+has search=q storage=q,z,p
+Print storage=q,z,p
+
+
+has search=q storage=z,p,q
+Print storage=z,p,q
+
+
+has search=c storage=p,q,q
+isUnique set=p,q result=false
+Print storage=p,q,q
+
+
+has search=j storage=q,q,c
+isUnique set=q,c result=false
+Print storage=q,q,c
+
+
+has search=c storage=q,c,j
+Print storage=q,c,j
+
+
+has search=j storage=c,j,c
+Print storage=c,j,c
+
+
+has search=n storage=j,c,j
+isUnique set=j,c result=false
+Print storage=j,c,j
+
+
+has search=j storage=c,j,n
+Print storage=c,j,n
+
+
+has search=c storage=j,n,j
+isUnique set=j,n result=false
+Print storage=j,n,j
+
+
+has search=n storage=n,j,c
+Print storage=n,j,c
+
+
+has search=n storage=j,c,n
+Print storage=j,c,n
+
+
+has search=z storage=c,n,n
+isUnique set=c,n result=false
+Print storage=c,n,n
+
+
+has search=b storage=n,n,z
+isUnique set=n,z result=false
+Print storage=n,n,z
+
+
+has search=z storage=n,z,b
+Print storage=n,z,b
+
+
+has search=j storage=z,b,z
+isUnique set=z,b result=false
+Print storage=z,b,z
+
+
+has search=z storage=b,z,j
+Print storage=b,z,j
+
+
+has search=p storage=z,j,z
+isUnique set=z,j result=false
+Print storage=z,j,z
+
+
+has search=z storage=j,z,p
+Print storage=j,z,p
+
+
+has search=b storage=z,p,z
+isUnique set=z,p result=false
+Print storage=z,p,z
+
+
+has search=p storage=p,z,b
+Print storage=p,z,b
+
+
+has search=b storage=z,b,p
+Print storage=z,b,p
+
+
+has search=n storage=b,p,b
+isUnique set=b,p result=false
+Print storage=b,p,b
+
+
+has search=b storage=p,b,n
+Print storage=p,b,n
+
+
+has search=w storage=b,n,b
+isUnique set=b,n result=false
+Print storage=b,n,b
+
+
+has search=b storage=n,b,w
+Print storage=n,b,w
+
+
+has search=c storage=b,w,b
+isUnique set=b,w result=false
+Print storage=b,w,b
+
+
+has search=c storage=w,b,c
+Print storage=w,b,c
+
+
+has search=t storage=b,c,c
+isUnique set=b,c result=false
+Print storage=b,c,c
+
+
+has search=v storage=c,c,t
+isUnique set=c,t result=false
+Print storage=c,c,t
+
+
+has search=v storage=c,t,v
+Print storage=c,t,v
+
+
+has search=h storage=t,v,v
+isUnique set=t,v result=false
+Print storage=t,v,v
+
+
+has search=g storage=v,v,h
+isUnique set=v,h result=false
+Print storage=v,v,h
+
+
+has search=v storage=v,h,g
+Print storage=v,h,g
+
+
+has search=g storage=h,g,v
+Print storage=h,g,v
+
+
+has search=s storage=g,v,g
+isUnique set=g,v result=false
+Print storage=g,v,g
+
+
+has search=v storage=v,g,s
+Print storage=v,g,s
+
+
+has search=v storage=g,s,v
+Print storage=g,s,v
+
+
+has search=p storage=s,v,v
+isUnique set=s,v result=false
+Print storage=s,v,v
+
+
+has search=w storage=v,v,p
+isUnique set=v,p result=false
+Print storage=v,v,p
+
+
+has search=w storage=v,p,w
+Print storage=v,p,w
+
+
+has search=v storage=p,w,w
+isUnique set=p,w result=false
+Print storage=p,w,w
+
+
+has search=j storage=w,w,v
+isUnique set=w,v result=false
+Print storage=w,w,v
+
+
+has search=j storage=w,v,j
+Print storage=w,v,j
+
+
+has search=v storage=v,j,j
+Print storage=v,j,j
+
+
+has search=q storage=j,j,v
+isUnique set=j,v result=false
+Print storage=j,j,v
+
+
+has search=j storage=j,v,q
+Print storage=j,v,q
+
+
+has search=j storage=v,q,j
+Print storage=v,q,j
+
+
+has search=j storage=q,j,j
+Print storage=q,j,j
+
+
+has search=d storage=j,j,j
+isUnique set=j result=false
+Print storage=j,j,j
+
+
+has search=q storage=j,j,d
+isUnique set=j,d result=false
+Print storage=j,j,d
+
+
+has search=q storage=j,d,q
+Print storage=j,d,q
+
+
+has search=r storage=d,q,q
+isUnique set=d,q result=false
+Print storage=d,q,q
+
+
+has search=m storage=q,q,r
+isUnique set=q,r result=false
+Print storage=q,q,r
+
+
+has search=r storage=q,r,m
+Print storage=q,r,m
+
+
+has search=m storage=r,m,r
+Print storage=r,m,r
+
+
+has search=q storage=m,r,m
+isUnique set=m,r result=false
+Print storage=m,r,m
+
+
+has search=m storage=r,m,q
+Print storage=r,m,q
+
+
+has search=s storage=m,q,m
+isUnique set=m,q result=false
+Print storage=m,q,m
+
+
+has search=q storage=q,m,s
+Print storage=q,m,s
+
+
+has search=s storage=m,s,q
+Print storage=m,s,q
+
+
+has search=z storage=s,q,s
+isUnique set=s,q result=false
+Print storage=s,q,s
+
+
+has search=q storage=q,s,z
+Print storage=q,s,z
+
+
+has search=s storage=s,z,q
+Print storage=s,z,q
+
+
+has search=q storage=z,q,s
+Print storage=z,q,s
+
+
+has search=p storage=q,s,q
+isUnique set=q,s result=false
+Print storage=q,s,q
+
+
+has search=s storage=s,q,p
+Print storage=s,q,p
+
+
+has search=q storage=q,p,s
+Print storage=q,p,s
+
+
+has search=s storage=p,s,q
+Print storage=p,s,q
+
+
+has search=l storage=s,q,s
+isUnique set=s,q result=false
+Print storage=s,q,s
+
+
+has search=s storage=q,s,l
+Print storage=q,s,l
+
+
+has search=d storage=s,l,s
+isUnique set=s,l result=false
+Print storage=s,l,s
+
+
+has search=d storage=l,s,d
+Print storage=l,s,d
+
+
+has search=h storage=s,d,d
+isUnique set=s,d result=false
+Print storage=s,d,d
+
+
+has search=b storage=d,d,h
+isUnique set=d,h result=false
+Print storage=d,d,h
+
+
+has search=h storage=d,h,b
+Print storage=d,h,b
+
+
+has search=c storage=h,b,h
+isUnique set=h,b result=false
+Print storage=h,b,h
+
+
+has search=b storage=b,h,c
+Print storage=b,h,c
+
+
+has search=h storage=h,c,b
+Print storage=h,c,b
+
+
+has search=b storage=c,b,h
+Print storage=c,b,h
+
+
+has search=c storage=b,h,b
+isUnique set=b,h result=false
+Print storage=b,h,b
+
+
+has search=h storage=h,b,c
+Print storage=h,b,c
+
+
+has search=c storage=b,c,h
+Print storage=b,c,h
+
+
+has search=v storage=c,h,c
+isUnique set=c,h result=false
+Print storage=c,h,c
+
+
+has search=v storage=h,c,v
+Print storage=h,c,v
+
+
+has search=j storage=c,v,v
+isUnique set=c,v result=false
+Print storage=c,v,v
+
+
+has search=v storage=v,v,j
+Print storage=v,v,j
+
+
+has search=j storage=v,j,v
+Print storage=v,j,v
+
+
+has search=c storage=j,v,j
+isUnique set=j,v result=false
+Print storage=j,v,j
+
+
+has search=j storage=v,j,c
+Print storage=v,j,c
+
+
+has search=n storage=j,c,j
+isUnique set=j,c result=false
+Print storage=j,c,j
+
+
+has search=c storage=c,j,n
+Print storage=c,j,n
+
+
+has search=c storage=j,n,c
+Print storage=j,n,c
+
+
+has search=d storage=n,c,c
+isUnique set=n,c result=false
+Print storage=n,c,c
+
+
+has search=b storage=c,c,d
+isUnique set=c,d result=false
+Print storage=c,c,d
+
+
+has search=c storage=c,d,b
+Print storage=c,d,b
+
+
+has search=d storage=d,b,c
+Print storage=d,b,c
+
+
+has search=c storage=b,c,d
+Print storage=b,c,d
+
+
+has search=r storage=c,d,c
+isUnique set=c,d result=false
+Print storage=c,d,c
+
+
+has search=d storage=d,c,r
+Print storage=d,c,r
+
+
+has search=d storage=c,r,d
+Print storage=c,r,d
+
+
+has search=l storage=r,d,d
+isUnique set=r,d result=false
+Print storage=r,d,d
+
+
+has search=d storage=d,d,l
+Print storage=d,d,l
+
+
+has search=b storage=d,l,d
+isUnique set=d,l result=false
+Print storage=d,l,d
+
+
+has search=l storage=l,d,b
+Print storage=l,d,b
+
+
+has search=b storage=d,b,l
+Print storage=d,b,l
+
+
+has search=f storage=b,l,b
+isUnique set=b,l result=false
+Print storage=b,l,b
+
+
+has search=f storage=l,b,f
+Print storage=l,b,f
+
+
+has search=h storage=b,f,f
+isUnique set=b,f result=false
+Print storage=b,f,f
+
+
+has search=v storage=f,f,h
+isUnique set=f,h result=false
+Print storage=f,f,h
+
+
+has search=f storage=f,h,v
+Print storage=f,h,v
+
+
+has search=f storage=h,v,f
+Print storage=h,v,f
+
+
+has search=p storage=v,f,f
+isUnique set=v,f result=false
+Print storage=v,f,f
+
+
+has search=v storage=f,f,p
+isUnique set=f,p result=false
+Print storage=f,f,p
+
+
+has search=p storage=f,p,v
+Print storage=f,p,v
+
+
+has search=z storage=p,v,p
+isUnique set=p,v result=false
+Print storage=p,v,p
+
+
+has search=p storage=v,p,z
+Print storage=v,p,z
+
+
+has search=v storage=p,z,p
+isUnique set=p,z result=false
+Print storage=p,z,p
+
+
+has search=v storage=z,p,v
+Print storage=z,p,v
+
+
+has search=m storage=p,v,v
+isUnique set=p,v result=false
+Print storage=p,v,v
+
+
+has search=v storage=v,v,m
+Print storage=v,v,m
+
+
+has search=f storage=v,m,v
+isUnique set=v,m result=false
+Print storage=v,m,v
+
+
+has search=m storage=m,v,f
+Print storage=m,v,f
+
+
+has search=m storage=v,f,m
+Print storage=v,f,m
+
+
+has search=w storage=f,m,m
+isUnique set=f,m result=false
+Print storage=f,m,m
+
+
+has search=h storage=m,m,w
+isUnique set=m,w result=false
+Print storage=m,m,w
+
+
+has search=w storage=m,w,h
+Print storage=m,w,h
+
+
+has search=q storage=w,h,w
+isUnique set=w,h result=false
+Print storage=w,h,w
+
+
+has search=h storage=h,w,q
+Print storage=h,w,q
+
+
+has search=q storage=w,q,h
+Print storage=w,q,h
+
+
+has search=v storage=q,h,q
+isUnique set=q,h result=false
+Print storage=q,h,q
+
+
+has search=h storage=h,q,v
+Print storage=h,q,v
+
+
+has search=q storage=q,v,h
+Print storage=q,v,h
+
+
+has search=h storage=v,h,q
+Print storage=v,h,q
+
+
+has search=m storage=h,q,h
+isUnique set=h,q result=false
+Print storage=h,q,h
+
+
+has search=m storage=q,h,m
+Print storage=q,h,m
+
+
+has search=p storage=h,m,m
+isUnique set=h,m result=false
+Print storage=h,m,m
+
+
+has search=d storage=m,m,p
+isUnique set=m,p result=false
+Print storage=m,m,p
+
+
+has search=m storage=m,p,d
+Print storage=m,p,d
+
+
+has search=m storage=p,d,m
+Print storage=p,d,m
+
+
+has search=l storage=d,m,m
+isUnique set=d,m result=false
+Print storage=d,m,m
+
+
+has search=b storage=m,m,l
+isUnique set=m,l result=false
+Print storage=m,m,l
+
+
+has search=m storage=m,l,b
+Print storage=m,l,b
+
+
+has search=b storage=l,b,m
+Print storage=l,b,m
+
+
+has search=g storage=b,m,b
+isUnique set=b,m result=false
+Print storage=b,m,b
+
+
+has search=m storage=m,b,g
+Print storage=m,b,g
+
+
+has search=b storage=b,g,m
+Print storage=b,g,m
+
+
+has search=b storage=g,m,b
+Print storage=g,m,b
+
+
+has search=r storage=m,b,b
+isUnique set=m,b result=false
+Print storage=m,b,b
+
+
+has search=q storage=b,b,r
+isUnique set=b,r result=false
+Print storage=b,b,r
+
+
+has search=q storage=b,r,q
+Print storage=b,r,q
+
+
+has search=p storage=r,q,q
+isUnique set=r,q result=false
+Print storage=r,q,q
+
+
+has search=m storage=q,q,p
+isUnique set=q,p result=false
+Print storage=q,q,p
+
+
+has search=q storage=q,p,m
+Print storage=q,p,m
+
+
+has search=q storage=p,m,q
+Print storage=p,m,q
+
+
+has search=c storage=m,q,q
+isUnique set=m,q result=false
+Print storage=m,q,q
+
+
+has search=v storage=q,q,c
+isUnique set=q,c result=false
+Print storage=q,q,c
+
+
+has search=c storage=q,c,v
+Print storage=q,c,v
+
+
+has search=m storage=c,v,c
+isUnique set=c,v result=false
+Print storage=c,v,c
+
+
+has search=v storage=v,c,m
+Print storage=v,c,m
+
+
+has search=v storage=c,m,v
+Print storage=c,m,v
+
+
+has search=c storage=m,v,v
+isUnique set=m,v result=false
+Print storage=m,v,v
+
+
+has search=n storage=v,v,c
+isUnique set=v,c result=false
+Print storage=v,v,c
+
+
+has search=c storage=v,c,n
+Print storage=v,c,n
+
+
+has search=l storage=c,n,c
+isUnique set=c,n result=false
+Print storage=c,n,c
+
+
+has search=l storage=n,c,l
+Print storage=n,c,l
+
+
+has search=p storage=c,l,l
+isUnique set=c,l result=false
+Print storage=c,l,l
+
+
+has search=t storage=l,l,p
+isUnique set=l,p result=false
+Print storage=l,l,p
+
+
+has search=l storage=l,p,t
+Print storage=l,p,t
+
+
+has search=t storage=p,t,l
+Print storage=p,t,l
+
+
+has search=v storage=t,l,t
+isUnique set=t,l result=false
+Print storage=t,l,t
+
+
+has search=t storage=l,t,v
+Print storage=l,t,v
+
+
+has search=d storage=t,v,t
+isUnique set=t,v result=false
+Print storage=t,v,t
+
+
+has search=t storage=v,t,d
+Print storage=v,t,d
+
+
+has search=b storage=t,d,t
+isUnique set=t,d result=false
+Print storage=t,d,t
+
+
+has search=b storage=d,t,b
+Print storage=d,t,b
+
+
+has search=q storage=t,b,b
+isUnique set=t,b result=false
+Print storage=t,b,b
+
+
+has search=z storage=b,b,q
+isUnique set=b,q result=false
+Print storage=b,b,q
+
+
+has search=z storage=b,q,z
+Print storage=b,q,z
+
+
+has search=c storage=q,z,z
+isUnique set=q,z result=false
+Print storage=q,z,z
+
+
+has search=g storage=z,z,c
+isUnique set=z,c result=false
+Print storage=z,z,c
+
+
+has search=g storage=z,c,g
+Print storage=z,c,g
+
+
+has search=j storage=c,g,g
+isUnique set=c,g result=false
+Print storage=c,g,g
+
+
+has search=g storage=g,g,j
+Print storage=g,g,j
+
+
+has search=s storage=g,j,g
+isUnique set=g,j result=false
+Print storage=g,j,g
+
+
+has search=j storage=j,g,s
+Print storage=j,g,s
+
+
+has search=j storage=g,s,j
+Print storage=g,s,j
+
+
+has search=v storage=s,j,j
+isUnique set=s,j result=false
+Print storage=s,j,j
+
+
+has search=j storage=j,j,v
+Print storage=j,j,v
+
+
+has search=s storage=j,v,j
+isUnique set=j,v result=false
+Print storage=j,v,j
+
+
+has search=v storage=v,j,s
+Print storage=v,j,s
+
+
+has search=v storage=j,s,v
+Print storage=j,s,v
+
+
+has search=g storage=s,v,v
+isUnique set=s,v result=false
+Print storage=s,v,v
+
+
+has search=m storage=v,v,g
+isUnique set=v,g result=false
+Print storage=v,v,g
+
+
+has search=g storage=v,g,m
+Print storage=v,g,m
+
+
+has search=f storage=g,m,g
+isUnique set=g,m result=false
+Print storage=g,m,g
+
+
+has search=f storage=m,g,f
+Print storage=m,g,f
+
+
+has search=q storage=g,f,f
+isUnique set=g,f result=false
+Print storage=g,f,f
+
+
+has search=h storage=f,f,q
+isUnique set=f,q result=false
+Print storage=f,f,q
+
+
+has search=q storage=f,q,h
+Print storage=f,q,h
+
+
+has search=q storage=q,h,q
+Print storage=q,h,q
+
+
+has search=g storage=h,q,q
+isUnique set=h,q result=false
+Print storage=h,q,q
+
+
+has search=p storage=q,q,g
+isUnique set=q,g result=false
+Print storage=q,q,g
+
+
+has search=p storage=q,g,p
+Print storage=q,g,p
+
+
+has search=t storage=g,p,p
+isUnique set=g,p result=false
+Print storage=g,p,p
+
+
+has search=s storage=p,p,t
+isUnique set=p,t result=false
+Print storage=p,p,t
+
+
+has search=p storage=p,t,s
+Print storage=p,t,s
+
+
+has search=s storage=t,s,p
+Print storage=t,s,p
+
+
+has search=f storage=s,p,s
+isUnique set=s,p result=false
+Print storage=s,p,s
+
+
+has search=f storage=p,s,f
+Print storage=p,s,f
+
+
+has search=v storage=s,f,f
+isUnique set=s,f result=false
+Print storage=s,f,f
+
+
+has search=d storage=f,f,v
+isUnique set=f,v result=false
+Print storage=f,f,v
+
+
+has search=v storage=f,v,d
+Print storage=f,v,d
+
+
+has search=b storage=v,d,v
+isUnique set=v,d result=false
+Print storage=v,d,v
+
+
+has search=b storage=d,v,b
+Print storage=d,v,b
+
+
+has search=h storage=v,b,b
+isUnique set=v,b result=false
+Print storage=v,b,b
+
+
+has search=q storage=b,b,h
+isUnique set=b,h result=false
+Print storage=b,b,h
+
+
+has search=h storage=b,h,q
+Print storage=b,h,q
+
+
+has search=z storage=h,q,h
+isUnique set=h,q result=false
+Print storage=h,q,h
+
+
+has search=z storage=q,h,z
+Print storage=q,h,z
+
+
+has search=l storage=h,z,z
+isUnique set=h,z result=false
+Print storage=h,z,z
+
+
+has search=l storage=z,z,l
+Print storage=z,z,l
+
+
+has search=v storage=z,l,l
+isUnique set=z,l result=false
+Print storage=z,l,l
+
+
+has search=v storage=l,l,v
+Print storage=l,l,v
+
+
+has search=j storage=l,v,v
+isUnique set=l,v result=false
+Print storage=l,v,v
+
+
+has search=b storage=v,v,j
+isUnique set=v,j result=false
+Print storage=v,v,j
+
+
+has search=v storage=v,j,b
+Print storage=v,j,b
+
+
+has search=v storage=j,b,v
+Print storage=j,b,v
+
+
+has search=b storage=b,v,v
+Print storage=b,v,v
+
+
+has search=p storage=v,v,b
+isUnique set=v,b result=false
+Print storage=v,v,b
+
+
+has search=p storage=v,b,p
+Print storage=v,b,p
+
+
+has search=p storage=b,p,p
+Print storage=b,p,p
+
+
+has search=g storage=p,p,p
+isUnique set=p result=false
+Print storage=p,p,p
+
+
+has search=g storage=p,p,g
+Print storage=p,p,g
+
+
+has search=f storage=p,g,g
+isUnique set=p,g result=false
+Print storage=p,g,g
+
+
+has search=p storage=g,g,f
+isUnique set=g,f result=false
+Print storage=g,g,f
+
+
+has search=g storage=g,f,p
+Print storage=g,f,p
+
+
+has search=p storage=f,p,g
+Print storage=f,p,g
+
+
+has search=t storage=p,g,p
+isUnique set=p,g result=false
+Print storage=p,g,p
+
+
+has search=g storage=g,p,t
+Print storage=g,p,t
+
+
+has search=t storage=p,t,g
+Print storage=p,t,g
+
+
+has search=v storage=t,g,t
+isUnique set=t,g result=false
+Print storage=t,g,t
+
+
+has search=v storage=g,t,v
+Print storage=g,t,v
+
+
+has search=z storage=t,v,v
+isUnique set=t,v result=false
+Print storage=t,v,v
+
+
+has search=d storage=v,v,z
+isUnique set=v,z result=false
+Print storage=v,v,z
+
+
+has search=v storage=v,z,d
+Print storage=v,z,d
+
+
+has search=d storage=z,d,v
+Print storage=z,d,v
+
+
+has search=z storage=d,v,d
+isUnique set=d,v result=false
+Print storage=d,v,d
+
+
+has search=d storage=v,d,z
+Print storage=v,d,z
+
+
+has search=g storage=d,z,d
+isUnique set=d,z result=false
+Print storage=d,z,d
+
+
+has search=z storage=z,d,g
+Print storage=z,d,g
+
+
+has search=g storage=d,g,z
+Print storage=d,g,z
+
+
+has search=c storage=g,z,g
+isUnique set=g,z result=false
+Print storage=g,z,g
+
+
+has search=c storage=z,g,c
+Print storage=z,g,c
+
+
+has search=m storage=g,c,c
+isUnique set=g,c result=false
+Print storage=g,c,c
+
+
+has search=m storage=c,c,m
+Print storage=c,c,m
+
+
+has search=p storage=c,m,m
+isUnique set=c,m result=false
+Print storage=c,m,m
+
+
+has search=h storage=m,m,p
+isUnique set=m,p result=false
+Print storage=m,m,p
+
+
+has search=p storage=m,p,h
+Print storage=m,p,h
+
+
+has search=m storage=p,h,p
+isUnique set=p,h result=false
+Print storage=p,h,p
+
+
+has search=h storage=h,p,m
+Print storage=h,p,m
+
+
+has search=p storage=p,m,h
+Print storage=p,m,h
+
+
+has search=p storage=m,h,p
+Print storage=m,h,p
+
+
+has search=l storage=h,p,p
+isUnique set=h,p result=false
+Print storage=h,p,p
+
+
+has search=d storage=p,p,l
+isUnique set=p,l result=false
+Print storage=p,p,l
+
+
+has search=l storage=p,l,d
+Print storage=p,l,d
+
+
+has search=n storage=l,d,l
+isUnique set=l,d result=false
+Print storage=l,d,l
+
+
+has search=l storage=d,l,n
+Print storage=d,l,n
+
+
+has search=p storage=l,n,l
+isUnique set=l,n result=false
+Print storage=l,n,l
+
+
+has search=n storage=n,l,p
+Print storage=n,l,p
+
+
+has search=n storage=l,p,n
+Print storage=l,p,n
+
+
+has search=h storage=p,n,n
+isUnique set=p,n result=false
+Print storage=p,n,n
+
+
+has search=g storage=n,n,h
+isUnique set=n,h result=false
+Print storage=n,n,h
+
+
+has search=h storage=n,h,g
+Print storage=n,h,g
+
+
+has search=h storage=h,g,h
+Print storage=h,g,h
+
+
+has search=r storage=g,h,h
+isUnique set=g,h result=false
+Print storage=g,h,h
+
+
+has search=r storage=h,h,r
+Print storage=h,h,r
+
+
+has search=g storage=h,r,r
+isUnique set=h,r result=false
+Print storage=h,r,r
+
+
+has search=w storage=r,r,g
+isUnique set=r,g result=false
+Print storage=r,r,g
+
+
+has search=r storage=r,g,w
+Print storage=r,g,w
+
+
+has search=w storage=g,w,r
+Print storage=g,w,r
+
+
+has search=s storage=w,r,w
+isUnique set=w,r result=false
+Print storage=w,r,w
+
+
+has search=s storage=r,w,s
+Print storage=r,w,s
+
+
+has search=n storage=w,s,s
+isUnique set=w,s result=false
+Print storage=w,s,s
+
+
+has search=l storage=s,s,n
+isUnique set=s,n result=false
+Print storage=s,s,n
+
+
+has search=l storage=s,n,l
+Print storage=s,n,l
+
+
+has search=m storage=n,l,l
+isUnique set=n,l result=false
+Print storage=n,l,l
+
+
+has search=p storage=l,l,m
+isUnique set=l,m result=false
+Print storage=l,l,m
+
+
+has search=l storage=l,m,p
+Print storage=l,m,p
+
+
+has search=l storage=m,p,l
+Print storage=m,p,l
+
+
+has search=b storage=p,l,l
+isUnique set=p,l result=false
+Print storage=p,l,l
+
+
+has search=v storage=l,l,b
+isUnique set=l,b result=false
+Print storage=l,l,b
+
+
+has search=b storage=l,b,v
+Print storage=l,b,v
+
+
+has search=v storage=b,v,b
+Print storage=b,v,b
+
+
+has search=q storage=v,b,v
+isUnique set=v,b result=false
+Print storage=v,b,v
+
+
+has search=v storage=b,v,q
+Print storage=b,v,q
+
+
+has search=t storage=v,q,v
+isUnique set=v,q result=false
+Print storage=v,q,v
+
+
+has search=v storage=q,v,t
+Print storage=q,v,t
+
+
+has search=h storage=v,t,v
+isUnique set=v,t result=false
+Print storage=v,t,v
+
+
+has search=t storage=t,v,h
+Print storage=t,v,h
+
+
+has search=v storage=v,h,t
+Print storage=v,h,t
+
+
+has search=v storage=h,t,v
+Print storage=h,t,v
+
+
+has search=m storage=t,v,v
+isUnique set=t,v result=false
+Print storage=t,v,v
+
+
+has search=n storage=v,v,m
+isUnique set=v,m result=false
+Print storage=v,v,m
+
+
+has search=v storage=v,m,n
+Print storage=v,m,n
+
+
+has search=v storage=m,n,v
+Print storage=m,n,v
+
+
+has search=p storage=n,v,v
+isUnique set=n,v result=false
+Print storage=n,v,v
+
+
+has search=g storage=v,v,p
+isUnique set=v,p result=false
+Print storage=v,v,p
+
+
+has search=v storage=v,p,g
+Print storage=v,p,g
+
+
+has search=g storage=p,g,v
+Print storage=p,g,v
+
+
+has search=f storage=g,v,g
+isUnique set=g,v result=false
+Print storage=g,v,g
+
+
+has search=v storage=v,g,f
+Print storage=v,g,f
+
+
+has search=g storage=g,f,v
+Print storage=g,f,v
+
+
+has search=g storage=f,v,g
+Print storage=f,v,g
+
+
+has search=t storage=v,g,g
+isUnique set=v,g result=false
+Print storage=v,g,g
+
+
+has search=z storage=g,g,t
+isUnique set=g,t result=false
+Print storage=g,g,t
+
+
+has search=t storage=g,t,z
+Print storage=g,t,z
+
+
+has search=p storage=t,z,t
+isUnique set=t,z result=false
+Print storage=t,z,t
+
+
+has search=t storage=z,t,p
+Print storage=z,t,p
+
+
+has search=h storage=t,p,t
+isUnique set=t,p result=false
+Print storage=t,p,t
+
+
+has search=h storage=p,t,h
+Print storage=p,t,h
+
+
+has search=c storage=t,h,h
+isUnique set=t,h result=false
+Print storage=t,h,h
+
+
+has search=f storage=h,h,c
+isUnique set=h,c result=false
+Print storage=h,h,c
+
+
+has search=h storage=h,c,f
+Print storage=h,c,f
+
+
+has search=f storage=c,f,h
+Print storage=c,f,h
+
+
+has search=q storage=f,h,f
+isUnique set=f,h result=false
+Print storage=f,h,f
+
+
+has search=f storage=h,f,q
+Print storage=h,f,q
+
+
+has search=h storage=f,q,f
+isUnique set=f,q result=false
+Print storage=f,q,f
+
+
+has search=h storage=q,f,h
+Print storage=q,f,h
+
+
+has search=n storage=f,h,h
+isUnique set=f,h result=false
+Print storage=f,h,h
+
+
+has search=h storage=h,h,n
+Print storage=h,h,n
+
+
+has search=t storage=h,n,h
+isUnique set=h,n result=false
+Print storage=h,n,h
+
+
+has search=n storage=n,h,t
+Print storage=n,h,t
+
+
+has search=h storage=h,t,n
+Print storage=h,t,n
+
+
+has search=h storage=t,n,h
+Print storage=t,n,h
+
+
+has search=l storage=n,h,h
+isUnique set=n,h result=false
+Print storage=n,h,h
+
+
+has search=j storage=h,h,l
+isUnique set=h,l result=false
+Print storage=h,h,l
+
+
+has search=h storage=h,l,j
+Print storage=h,l,j
+
+
+has search=j storage=l,j,h
+Print storage=l,j,h
+
+
+has search=p storage=j,h,j
+isUnique set=j,h result=false
+Print storage=j,h,j
+
+
+has search=p storage=h,j,p
+Print storage=h,j,p
+
+
+has search=q storage=j,p,p
+isUnique set=j,p result=false
+Print storage=j,p,p
+
+
+has search=j storage=p,p,q
+isUnique set=p,q result=false
+Print storage=p,p,q
+
+
+has search=j storage=p,q,j
+Print storage=p,q,j
+
+
+has search=f storage=q,j,j
+isUnique set=q,j result=false
+Print storage=q,j,j
+
+
+has search=f storage=j,j,f
+Print storage=j,j,f
+
+
+has search=g storage=j,f,f
+isUnique set=j,f result=false
+Print storage=j,f,f
+
+
+has search=j storage=f,f,g
+isUnique set=f,g result=false
+Print storage=f,f,g
+
+
+has search=g storage=f,g,j
+Print storage=f,g,j
+
+
+has search=g storage=g,j,g
+Print storage=g,j,g
+
+
+has search=r storage=j,g,g
+isUnique set=j,g result=false
+Print storage=j,g,g
+
+
+has search=w storage=g,g,r
+isUnique set=g,r result=false
+Print storage=g,g,r
+
+
+has search=r storage=g,r,w
+Print storage=g,r,w
+
+
+has search=j storage=r,w,r
+isUnique set=r,w result=false
+Print storage=r,w,r
+
+
+has search=j storage=w,r,j
+Print storage=w,r,j
+
+
+has search=h storage=r,j,j
+isUnique set=r,j result=false
+Print storage=r,j,j
+
+
+has search=p storage=j,j,h
+isUnique set=j,h result=false
+Print storage=j,j,h
+
+
+has search=h storage=j,h,p
+Print storage=j,h,p
+
+
+has search=z storage=h,p,h
+isUnique set=h,p result=false
+Print storage=h,p,h
+
+
+has search=h storage=p,h,z
+Print storage=p,h,z
+
+
+has search=t storage=h,z,h
+isUnique set=h,z result=false
+Print storage=h,z,h
+
+
+has search=z storage=z,h,t
+Print storage=z,h,t
+
+
+has search=t storage=h,t,z
+Print storage=h,t,z
+
+
+has search=g storage=t,z,t
+isUnique set=t,z result=false
+Print storage=t,z,t
+
+
+has search=g storage=z,t,g
+Print storage=z,t,g
+
+
+has search=w storage=t,g,g
+isUnique set=t,g result=false
+Print storage=t,g,g
+
+
+has search=s storage=g,g,w
+isUnique set=g,w result=false
+Print storage=g,g,w
+
+
+has search=w storage=g,w,s
+Print storage=g,w,s
+
+
+has search=n storage=w,s,w
+isUnique set=w,s result=false
+Print storage=w,s,w
+
+
+has search=w storage=s,w,n
+Print storage=s,w,n
+
+
+has search=z storage=w,n,w
+isUnique set=w,n result=false
+Print storage=w,n,w
+
+
+has search=z storage=n,w,z
+Print storage=n,w,z
+
+
+has search=v storage=w,z,z
+isUnique set=w,z result=false
+Print storage=w,z,z
+
+
+has search=b storage=z,z,v
+isUnique set=z,v result=false
+Print storage=z,z,v
+
+
+has search=z storage=z,v,b
+Print storage=z,v,b
+
+
+has search=z storage=v,b,z
+Print storage=v,b,z
+
+
+has search=m storage=b,z,z
+isUnique set=b,z result=false
+Print storage=b,z,z
+
+
+has search=m storage=z,z,m
+Print storage=z,z,m
+
+
+has search=t storage=z,m,m
+isUnique set=z,m result=false
+Print storage=z,m,m
+
+
+has search=r storage=m,m,t
+isUnique set=m,t result=false
+Print storage=m,m,t
+
+
+has search=t storage=m,t,r
+Print storage=m,t,r
+
+
+has search=q storage=t,r,t
+isUnique set=t,r result=false
+Print storage=t,r,t
+
+
+has search=t storage=r,t,q
+Print storage=r,t,q
+
+
+has search=j storage=t,q,t
+isUnique set=t,q result=false
+Print storage=t,q,t
+
+
+has search=q storage=q,t,j
+Print storage=q,t,j
+
+
+has search=t storage=t,j,q
+Print storage=t,j,q
+
+
+has search=t storage=j,q,t
+Print storage=j,q,t
+
+
+has search=w storage=q,t,t
+isUnique set=q,t result=false
+Print storage=q,t,t
+
+
+has search=l storage=t,t,w
+isUnique set=t,w result=false
+Print storage=t,t,w
+
+
+has search=w storage=t,w,l
+Print storage=t,w,l
+
+
+has search=m storage=w,l,w
+isUnique set=w,l result=false
+Print storage=w,l,w
+
+
+has search=m storage=l,w,m
+Print storage=l,w,m
+
+
+has search=m storage=w,m,m
+Print storage=w,m,m
+
+
+has search=m storage=m,m,m
+Print storage=m,m,m
+
+
+has search=n storage=m,m,m
+isUnique set=m result=false
+Print storage=m,m,m
+
+
+has search=d storage=m,m,n
+isUnique set=m,n result=false
+Print storage=m,m,n
+
+
+has search=d storage=m,n,d
+Print storage=m,n,d
+
+
+has search=m storage=n,d,d
+isUnique set=n,d result=false
+Print storage=n,d,d
+
+
+has search=n storage=d,d,m
+isUnique set=d,m result=false
+Print storage=d,d,m
+
+
+has search=d storage=d,m,n
+Print storage=d,m,n
+
+
+has search=d storage=m,n,d
+Print storage=m,n,d
+
+
+has search=w storage=n,d,d
+isUnique set=n,d result=false
+Print storage=n,d,d
+
+
+has search=v storage=d,d,w
+isUnique set=d,w result=false
+Print storage=d,d,w
+
+
+has search=v storage=d,w,v
+Print storage=d,w,v
+
+
+has search=c storage=w,v,v
+isUnique set=w,v result=false
+Print storage=w,v,v
+
+
+has search=l storage=v,v,c
+isUnique set=v,c result=false
+Print storage=v,v,c
+
+
+has search=l storage=v,c,l
+Print storage=v,c,l
+
+
+has search=g storage=c,l,l
+isUnique set=c,l result=false
+Print storage=c,l,l
+
+
+has search=r storage=l,l,g
+isUnique set=l,g result=false
+Print storage=l,l,g
+
+
+has search=g storage=l,g,r
+Print storage=l,g,r
+
+
+has search=f storage=g,r,g
+isUnique set=g,r result=false
+Print storage=g,r,g
+
+
+has search=g storage=r,g,f
+Print storage=r,g,f
+
+
+has search=z storage=g,f,g
+isUnique set=g,f result=false
+Print storage=g,f,g
+
+
+has search=z storage=f,g,z
+Print storage=f,g,z
+
+
+has search=n storage=g,z,z
+isUnique set=g,z result=false
+Print storage=g,z,z
+
+
+has search=w storage=z,z,n
+isUnique set=z,n result=false
+Print storage=z,z,n
+
+
+has search=n storage=z,n,w
+Print storage=z,n,w
+
+
+has search=s storage=n,w,n
+isUnique set=n,w result=false
+Print storage=n,w,n
+
+
+has search=s storage=w,n,s
+Print storage=w,n,s
+
+
+has search=w storage=n,s,s
+isUnique set=n,s result=false
+Print storage=n,s,s
+
+
+has search=j storage=s,s,w
+isUnique set=s,w result=false
+Print storage=s,s,w
+
+
+has search=j storage=s,w,j
+Print storage=s,w,j
+
+
+has search=h storage=w,j,j
+isUnique set=w,j result=false
+Print storage=w,j,j
+
+
+has search=w storage=j,j,h
+isUnique set=j,h result=false
+Print storage=j,j,h
+
+
+has search=w storage=j,h,w
+Print storage=j,h,w
+
+
+has search=s storage=h,w,w
+isUnique set=h,w result=false
+Print storage=h,w,w
+
+
+has search=p storage=w,w,s
+isUnique set=w,s result=false
+Print storage=w,w,s
+
+
+has search=s storage=w,s,p
+Print storage=w,s,p
+
+
+has search=b storage=s,p,s
+isUnique set=s,p result=false
+Print storage=s,p,s
+
+
+has search=b storage=p,s,b
+Print storage=p,s,b
+
+
+has search=v storage=s,b,b
+isUnique set=s,b result=false
+Print storage=s,b,b
+
+
+has search=z storage=b,b,v
+isUnique set=b,v result=false
+Print storage=b,b,v
+
+
+has search=z storage=b,v,z
+Print storage=b,v,z
+
+
+has search=q storage=v,z,z
+isUnique set=v,z result=false
+Print storage=v,z,z
+
+
+has search=v storage=z,z,q
+isUnique set=z,q result=false
+Print storage=z,z,q
+
+
+has search=z storage=z,q,v
+Print storage=z,q,v
+
+
+has search=v storage=q,v,z
+Print storage=q,v,z
+
+
+has search=b storage=v,z,v
+isUnique set=v,z result=false
+Print storage=v,z,v
+
+
+has search=v storage=z,v,b
+Print storage=z,v,b
+
+
+has search=c storage=v,b,v
+isUnique set=v,b result=false
+Print storage=v,b,v
+
+
+has search=v storage=b,v,c
+Print storage=b,v,c
+
+
+has search=m storage=v,c,v
+isUnique set=v,c result=false
+Print storage=v,c,v
+
+
+has search=m storage=c,v,m
+Print storage=c,v,m
+
+
+has search=t storage=v,m,m
+isUnique set=v,m result=false
+Print storage=v,m,m
+
+
+has search=l storage=m,m,t
+isUnique set=m,t result=false
+Print storage=m,m,t
+
+
+has search=t storage=m,t,l
+Print storage=m,t,l
+
+
+has search=n storage=t,l,t
+isUnique set=t,l result=false
+Print storage=t,l,t
+
+
+has search=l storage=l,t,n
+Print storage=l,t,n
+
+
+has search=n storage=t,n,l
+Print storage=t,n,l
+
+
+has search=f storage=n,l,n
+isUnique set=n,l result=false
+Print storage=n,l,n
+
+
+has search=n storage=l,n,f
+Print storage=l,n,f
+
+
+has search=f storage=n,f,n
+Print storage=n,f,n
+
+
+has search=n storage=f,n,f
+Print storage=f,n,f
+
+
+has search=w storage=n,f,n
+isUnique set=n,f result=false
+Print storage=n,f,n
+
+
+has search=w storage=f,n,w
+Print storage=f,n,w
+
+
+has search=s storage=n,w,w
+isUnique set=n,w result=false
+Print storage=n,w,w
+
+
+has search=v storage=w,w,s
+isUnique set=w,s result=false
+Print storage=w,w,s
+
+
+has search=w storage=w,s,v
+Print storage=w,s,v
+
+
+has search=w storage=s,v,w
+Print storage=s,v,w
+
+
+has search=p storage=v,w,w
+isUnique set=v,w result=false
+Print storage=v,w,w
+
+
+has search=s storage=w,w,p
+isUnique set=w,p result=false
+Print storage=w,w,p
+
+
+has search=w storage=w,p,s
+Print storage=w,p,s
+
+
+has search=p storage=p,s,w
+Print storage=p,s,w
+
+
+has search=p storage=s,w,p
+Print storage=s,w,p
+
+
+has search=j storage=w,p,p
+isUnique set=w,p result=false
+Print storage=w,p,p
+
+
+has search=h storage=p,p,j
+isUnique set=p,j result=false
+Print storage=p,p,j
+
+
+has search=j storage=p,j,h
+Print storage=p,j,h
+
+
+has search=d storage=j,h,j
+isUnique set=j,h result=false
+Print storage=j,h,j
+
+
+has search=h storage=h,j,d
+Print storage=h,j,d
+
+
+has search=h storage=j,d,h
+Print storage=j,d,h
+
+
+has search=m storage=d,h,h
+isUnique set=d,h result=false
+Print storage=d,h,h
+
+
+has search=b storage=h,h,m
+isUnique set=h,m result=false
+Print storage=h,h,m
+
+
+has search=b storage=h,m,b
+Print storage=h,m,b
+
+
+has search=b storage=m,b,b
+Print storage=m,b,b
+
+
+has search=l storage=b,b,b
+isUnique set=b result=false
+Print storage=b,b,b
+
+
+has search=f storage=b,b,l
+isUnique set=b,l result=false
+Print storage=b,b,l
+
+
+has search=b storage=b,l,f
+Print storage=b,l,f
+
+
+has search=f storage=l,f,b
+Print storage=l,f,b
+
+
+has search=w storage=f,b,f
+isUnique set=f,b result=false
+Print storage=f,b,f
+
+
+has search=f storage=b,f,w
+Print storage=b,f,w
+
+
+has search=f storage=f,w,f
+Print storage=f,w,f
+
+
+has search=w storage=w,f,f
+Print storage=w,f,f
+
+
+has search=v storage=f,f,w
+isUnique set=f,w result=false
+Print storage=f,f,w
+
+
+has search=v storage=f,w,v
+Print storage=f,w,v
+
+
+has search=j storage=w,v,v
+isUnique set=w,v result=false
+Print storage=w,v,v
+
+
+has search=g storage=v,v,j
+isUnique set=v,j result=false
+Print storage=v,v,j
+
+
+has search=g storage=v,j,g
+Print storage=v,j,g
+
+
+has search=h storage=j,g,g
+isUnique set=j,g result=false
+Print storage=j,g,g
+
+
+has search=w storage=g,g,h
+isUnique set=g,h result=false
+Print storage=g,g,h
+
+
+has search=h storage=g,h,w
+Print storage=g,h,w
+
+
+has search=z storage=h,w,h
+isUnique set=h,w result=false
+Print storage=h,w,h
+
+
+has search=h storage=w,h,z
+Print storage=w,h,z
+
+
+has search=j storage=h,z,h
+isUnique set=h,z result=false
+Print storage=h,z,h
+
+
+has search=z storage=z,h,j
+Print storage=z,h,j
+
+
+has search=z storage=h,j,z
+Print storage=h,j,z
+
+
+has search=r storage=j,z,z
+isUnique set=j,z result=false
+Print storage=j,z,z
+
+
+has search=t storage=z,z,r
+isUnique set=z,r result=false
+Print storage=z,z,r
+
+
+has search=t storage=z,r,t
+Print storage=z,r,t
+
+
+has search=w storage=r,t,t
+isUnique set=r,t result=false
+Print storage=r,t,t
+
+
+has search=h storage=t,t,w
+isUnique set=t,w result=false
+Print storage=t,t,w
+
+
+has search=w storage=t,w,h
+Print storage=t,w,h
+
+
+has search=j storage=w,h,w
+isUnique set=w,h result=false
+Print storage=w,h,w
+
+
+has search=h storage=h,w,j
+Print storage=h,w,j
+
+
+has search=j storage=w,j,h
+Print storage=w,j,h
+
+
+has search=c storage=j,h,j
+isUnique set=j,h result=false
+Print storage=j,h,j
+
+
+has search=h storage=h,j,c
+Print storage=h,j,c
+
+
+has search=j storage=j,c,h
+Print storage=j,c,h
+
+
+has search=h storage=c,h,j
+Print storage=c,h,j
+
+
+has search=g storage=h,j,h
+isUnique set=h,j result=false
+Print storage=h,j,h
+
+
+has search=g storage=j,h,g
+Print storage=j,h,g
+
+
+has search=d storage=h,g,g
+isUnique set=h,g result=false
+Print storage=h,g,g
+
+
+has search=r storage=g,g,d
+isUnique set=g,d result=false
+Print storage=g,g,d
+
+
+has search=g storage=g,d,r
+Print storage=g,d,r
+
+
+has search=d storage=d,r,g
+Print storage=d,r,g
+
+
+has search=g storage=r,g,d
+Print storage=r,g,d
+
+
+has search=m storage=g,d,g
+isUnique set=g,d result=false
+Print storage=g,d,g
+
+
+has search=m storage=d,g,m
+Print storage=d,g,m
+
+
+has search=s storage=g,m,m
+isUnique set=g,m result=false
+Print storage=g,m,m
+
+
+has search=j storage=m,m,s
+isUnique set=m,s result=false
+Print storage=m,m,s
+
+
+has search=s storage=m,s,j
+Print storage=m,s,j
+
+
+has search=f storage=s,j,s
+isUnique set=s,j result=false
+Print storage=s,j,s
+
+
+has search=s storage=j,s,f
+Print storage=j,s,f
+
+
+has search=t storage=s,f,s
+isUnique set=s,f result=false
+Print storage=s,f,s
+
+
+has search=f storage=f,s,t
+Print storage=f,s,t
+
+
+has search=t storage=s,t,f
+Print storage=s,t,f
+
+
+has search=v storage=t,f,t
+isUnique set=t,f result=false
+Print storage=t,f,t
+
+
+has search=t storage=f,t,v
+Print storage=f,t,v
+
+
+has search=m storage=t,v,t
+isUnique set=t,v result=false
+Print storage=t,v,t
+
+
+has search=t storage=v,t,m
+Print storage=v,t,m
+
+
+has search=c storage=t,m,t
+isUnique set=t,m result=false
+Print storage=t,m,t
+
+
+has search=t storage=m,t,c
+Print storage=m,t,c
+
+
+has search=g storage=t,c,t
+isUnique set=t,c result=false
+Print storage=t,c,t
+
+
+has search=g storage=c,t,g
+Print storage=c,t,g
+
+
+has search=c storage=t,g,g
+isUnique set=t,g result=false
+Print storage=t,g,g
+
+
+has search=w storage=g,g,c
+isUnique set=g,c result=false
+Print storage=g,g,c
+
+
+has search=g storage=g,c,w
+Print storage=g,c,w
+
+
+has search=c storage=c,w,g
+Print storage=c,w,g
+
+
+has search=g storage=w,g,c
+Print storage=w,g,c
+
+
+has search=z storage=g,c,g
+isUnique set=g,c result=false
+Print storage=g,c,g
+
+
+has search=c storage=c,g,z
+Print storage=c,g,z
+
+
+has search=c storage=g,z,c
+Print storage=g,z,c
+
+
+has search=g storage=z,c,c
+isUnique set=z,c result=false
+Print storage=z,c,c
+
+
+has search=z storage=c,c,g
+isUnique set=c,g result=false
+Print storage=c,c,g
+
+
+has search=g storage=c,g,z
+Print storage=c,g,z
+
+
+has search=s storage=g,z,g
+isUnique set=g,z result=false
+Print storage=g,z,g
+
+
+has search=g storage=z,g,s
+Print storage=z,g,s
+
+
+has search=r storage=g,s,g
+isUnique set=g,s result=false
+Print storage=g,s,g
+
+
+has search=g storage=s,g,r
+Print storage=s,g,r
+
+
+has search=m storage=g,r,g
+isUnique set=g,r result=false
+Print storage=g,r,g
+
+
+has search=m storage=r,g,m
+Print storage=r,g,m
+
+
+has search=j storage=g,m,m
+isUnique set=g,m result=false
+Print storage=g,m,m
+
+
+has search=h storage=m,m,j
+isUnique set=m,j result=false
+Print storage=m,m,j
+
+
+has search=h storage=m,j,h
+Print storage=m,j,h
+
+
+has search=q storage=j,h,h
+isUnique set=j,h result=false
+Print storage=j,h,h
+
+
+has search=z storage=h,h,q
+isUnique set=h,q result=false
+Print storage=h,h,q
+
+
+has search=z storage=h,q,z
+Print storage=h,q,z
+
+
+has search=r storage=q,z,z
+isUnique set=q,z result=false
+Print storage=q,z,z
+
+
+has search=m storage=z,z,r
+isUnique set=z,r result=false
+Print storage=z,z,r
+
+
+has search=r storage=z,r,m
+Print storage=z,r,m
+
+
+has search=t storage=r,m,r
+isUnique set=r,m result=false
+Print storage=r,m,r
+
+
+has search=t storage=m,r,t
+Print storage=m,r,t
+
+
+has search=g storage=r,t,t
+isUnique set=r,t result=false
+Print storage=r,t,t
+
+
+has search=t storage=t,t,g
+Print storage=t,t,g
+
+
+has search=g storage=t,g,t
+Print storage=t,g,t
+
+
+has search=f storage=g,t,g
+isUnique set=g,t result=false
+Print storage=g,t,g
+
+
+has search=g storage=t,g,f
+Print storage=t,g,f
+
+
+has search=c storage=g,f,g
+isUnique set=g,f result=false
+Print storage=g,f,g
+
+
+has search=f storage=f,g,c
+Print storage=f,g,c
+
+
+has search=f storage=g,c,f
+Print storage=g,c,f
+
+
+has search=v storage=c,f,f
+isUnique set=c,f result=false
+Print storage=c,f,f
+
+
+has search=s storage=f,f,v
+isUnique set=f,v result=false
+Print storage=f,f,v
+
+
+has search=f storage=f,v,s
+Print storage=f,v,s
+
+
+has search=v storage=v,s,f
+Print storage=v,s,f
+
+
+has search=v storage=s,f,v
+Print storage=s,f,v
+
+
+has search=s storage=f,v,v
+isUnique set=f,v result=false
+Print storage=f,v,v
+
+
+has search=l storage=v,v,s
+isUnique set=v,s result=false
+Print storage=v,v,s
+
+
+has search=s storage=v,s,l
+Print storage=v,s,l
+
+
+has search=v storage=s,l,s
+isUnique set=s,l result=false
+Print storage=s,l,s
+
+
+has search=v storage=l,s,v
+Print storage=l,s,v
+
+
+has search=p storage=s,v,v
+isUnique set=s,v result=false
+Print storage=s,v,v
+
+
+has search=q storage=v,v,p
+isUnique set=v,p result=false
+Print storage=v,v,p
+
+
+has search=v storage=v,p,q
+Print storage=v,p,q
+
+
+has search=v storage=p,q,v
+Print storage=p,q,v
+
+
+has search=n storage=q,v,v
+isUnique set=q,v result=false
+Print storage=q,v,v
+
+
+has search=j storage=v,v,n
+isUnique set=v,n result=false
+Print storage=v,v,n
+
+
+has search=n storage=v,n,j
+Print storage=v,n,j
+
+
+has search=r storage=n,j,n
+isUnique set=n,j result=false
+Print storage=n,j,n
+
+
+has search=r storage=j,n,r
+Print storage=j,n,r
+
+
+has search=w storage=n,r,r
+isUnique set=n,r result=false
+Print storage=n,r,r
+
+
+has search=d storage=r,r,w
+isUnique set=r,w result=false
+Print storage=r,r,w
+
+
+has search=w storage=r,w,d
+Print storage=r,w,d
+
+
+has search=c storage=w,d,w
+isUnique set=w,d result=false
+Print storage=w,d,w
+
+
+has search=w storage=d,w,c
+Print storage=d,w,c
+
+
+has search=c storage=w,c,w
+Print storage=w,c,w
+
+
+has search=n storage=c,w,c
+isUnique set=c,w result=false
+Print storage=c,w,c
+
+
+has search=n storage=w,c,n
+Print storage=w,c,n
+
+
+has search=h storage=c,n,n
+isUnique set=c,n result=false
+Print storage=c,n,n
+
+
+has search=l storage=n,n,h
+isUnique set=n,h result=false
+Print storage=n,n,h
+
+
+has search=l storage=n,h,l
+Print storage=n,h,l
+
+
+has search=w storage=h,l,l
+isUnique set=h,l result=false
+Print storage=h,l,l
+
+
+has search=p storage=l,l,w
+isUnique set=l,w result=false
+Print storage=l,l,w
+
+
+has search=w storage=l,w,p
+Print storage=l,w,p
+
+
+has search=d storage=w,p,w
+isUnique set=w,p result=false
+Print storage=w,p,w
+
+
+has search=p storage=p,w,d
+Print storage=p,w,d
+
+
+has search=w storage=w,d,p
+Print storage=w,d,p
+
+
+has search=d storage=d,p,w
+Print storage=d,p,w
+
+
+has search=p storage=p,w,d
+Print storage=p,w,d
+
+
+has search=d storage=w,d,p
+Print storage=w,d,p
+
+
+has search=q storage=d,p,d
+isUnique set=d,p result=false
+Print storage=d,p,d
+
+
+has search=q storage=p,d,q
+Print storage=p,d,q
+
+
+has search=t storage=d,q,q
+isUnique set=d,q result=false
+Print storage=d,q,q
+
+
+has search=w storage=q,q,t
+isUnique set=q,t result=false
+Print storage=q,q,t
+
+
+has search=t storage=q,t,w
+Print storage=q,t,w
+
+
+has search=f storage=t,w,t
+isUnique set=t,w result=false
+Print storage=t,w,t
+
+
+has search=t storage=w,t,f
+Print storage=w,t,f
+
+
+has search=d storage=t,f,t
+isUnique set=t,f result=false
+Print storage=t,f,t
+
+
+has search=f storage=f,t,d
+Print storage=f,t,d
+
+
+has search=t storage=t,d,f
+Print storage=t,d,f
+
+
+has search=d storage=d,f,t
+Print storage=d,f,t
+
+
+has search=d storage=f,t,d
+Print storage=f,t,d
+
+
+has search=p storage=t,d,d
+isUnique set=t,d result=false
+Print storage=t,d,d
+
+
+has search=p storage=d,d,p
+Print storage=d,d,p
+
+
+has search=n storage=d,p,p
+isUnique set=d,p result=false
+Print storage=d,p,p
+
+
+has search=c storage=p,p,n
+isUnique set=p,n result=false
+Print storage=p,p,n
+
+
+has search=p storage=p,n,c
+Print storage=p,n,c
+
+
+has search=n storage=n,c,p
+Print storage=n,c,p
+
+
+has search=c storage=c,p,n
+Print storage=c,p,n
+
+
+has search=c storage=p,n,c
+Print storage=p,n,c
+
+
+has search=l storage=n,c,c
+isUnique set=n,c result=false
+Print storage=n,c,c
+
+
+has search=l storage=c,c,l
+Print storage=c,c,l
+
+
+has search=q storage=c,l,l
+isUnique set=c,l result=false
+Print storage=c,l,l
+
+
+has search=q storage=l,l,q
+Print storage=l,l,q
+
+
+has search=r storage=l,q,q
+isUnique set=l,q result=false
+Print storage=l,q,q
+
+
+has search=f storage=q,q,r
+isUnique set=q,r result=false
+Print storage=q,q,r
+
+
+has search=f storage=q,r,f
+Print storage=q,r,f
+
+
+has search=p storage=r,f,f
+isUnique set=r,f result=false
+Print storage=r,f,f
+
+
+has search=s storage=f,f,p
+isUnique set=f,p result=false
+Print storage=f,f,p
+
+
+has search=s storage=f,p,s
+Print storage=f,p,s
+
+
+has search=g storage=p,s,s
+isUnique set=p,s result=false
+Print storage=p,s,s
+
+
+has search=v storage=s,s,g
+isUnique set=s,g result=false
+Print storage=s,s,g
+
+
+has search=s storage=s,g,v
+Print storage=s,g,v
+
+
+has search=v storage=g,v,s
+Print storage=g,v,s
+
+
+has search=t storage=v,s,v
+isUnique set=v,s result=false
+Print storage=v,s,v
+
+
+has search=v storage=s,v,t
+Print storage=s,v,t
+
+
+has search=m storage=v,t,v
+isUnique set=v,t result=false
+Print storage=v,t,v
+
+
+has search=v storage=t,v,m
+Print storage=t,v,m
+
+
+has search=s storage=v,m,v
+isUnique set=v,m result=false
+Print storage=v,m,v
+
+
+has search=s storage=m,v,s
+Print storage=m,v,s
+
+
+has search=r storage=v,s,s
+isUnique set=v,s result=false
+Print storage=v,s,s
+
+
+has search=b storage=s,s,r
+isUnique set=s,r result=false
+Print storage=s,s,r
+
+
+has search=r storage=s,r,b
+Print storage=s,r,b
+
+
+has search=h storage=r,b,r
+isUnique set=r,b result=false
+Print storage=r,b,r
+
+
+has search=b storage=b,r,h
+Print storage=b,r,h
+
+
+has search=b storage=r,h,b
+Print storage=r,h,b
+
+
+has search=z storage=h,b,b
+isUnique set=h,b result=false
+Print storage=h,b,b
+
+
+has search=g storage=b,b,z
+isUnique set=b,z result=false
+Print storage=b,b,z
+
+
+has search=g storage=b,z,g
+Print storage=b,z,g
+
+
+has search=t storage=z,g,g
+isUnique set=z,g result=false
+Print storage=z,g,g
+
+
+has search=s storage=g,g,t
+isUnique set=g,t result=false
+Print storage=g,g,t
+
+
+has search=s storage=g,t,s
+Print storage=g,t,s
+
+
+has search=d storage=t,s,s
+isUnique set=t,s result=false
+Print storage=t,s,s
+
+
+has search=s storage=s,s,d
+Print storage=s,s,d
+
+
+has search=v storage=s,d,s
+isUnique set=s,d result=false
+Print storage=s,d,s
+
+
+has search=d storage=d,s,v
+Print storage=d,s,v
+
+
+has search=d storage=s,v,d
+Print storage=s,v,d
+
+
+has search=q storage=v,d,d
+isUnique set=v,d result=false
+Print storage=v,d,d
+
+
+has search=f storage=d,d,q
+isUnique set=d,q result=false
+Print storage=d,d,q
+
+
+has search=d storage=d,q,f
+Print storage=d,q,f
+
+
+has search=f storage=q,f,d
+Print storage=q,f,d
+
+
+has search=j storage=f,d,f
+isUnique set=f,d result=false
+Print storage=f,d,f
+
+
+has search=f storage=d,f,j
+Print storage=d,f,j
+
+
+has search=h storage=f,j,f
+isUnique set=f,j result=false
+Print storage=f,j,f
+
+
+has search=j storage=j,f,h
+Print storage=j,f,h
+
+
+has search=h storage=f,h,j
+Print storage=f,h,j
+
+
+has search=d storage=h,j,h
+isUnique set=h,j result=false
+Print storage=h,j,h
+
+
+has search=j storage=j,h,d
+Print storage=j,h,d
+
+
+has search=h storage=h,d,j
+Print storage=h,d,j
+
+
+has search=h storage=d,j,h
+Print storage=d,j,h
+
+
+has search=n storage=j,h,h
+isUnique set=j,h result=false
+Print storage=j,h,h
+
+
+has search=c storage=h,h,n
+isUnique set=h,n result=false
+Print storage=h,h,n
+
+
+has search=n storage=h,n,c
+Print storage=h,n,c
+
+
+has search=d storage=n,c,n
+isUnique set=n,c result=false
+Print storage=n,c,n
+
+
+has search=d storage=c,n,d
+Print storage=c,n,d
+
+
+has search=f storage=n,d,d
+isUnique set=n,d result=false
+Print storage=n,d,d
+
+
+has search=p storage=d,d,f
+isUnique set=d,f result=false
+Print storage=d,d,f
+
+
+has search=d storage=d,f,p
+Print storage=d,f,p
+
+
+has search=f storage=f,p,d
+Print storage=f,p,d
+
+
+has search=d storage=p,d,f
+Print storage=p,d,f
+
+
+has search=m storage=d,f,d
+isUnique set=d,f result=false
+Print storage=d,f,d
+
+
+has search=m storage=f,d,m
+Print storage=f,d,m
+
+
+has search=r storage=d,m,m
+isUnique set=d,m result=false
+Print storage=d,m,m
+
+
+has search=d storage=m,m,r
+isUnique set=m,r result=false
+Print storage=m,m,r
+
+
+has search=d storage=m,r,d
+Print storage=m,r,d
+
+
+has search=n storage=r,d,d
+isUnique set=r,d result=false
+Print storage=r,d,d
+
+
+has search=c storage=d,d,n
+isUnique set=d,n result=false
+Print storage=d,d,n
+
+
+has search=n storage=d,n,c
+Print storage=d,n,c
+
+
+has search=v storage=n,c,n
+isUnique set=n,c result=false
+Print storage=n,c,n
+
+
+has search=c storage=c,n,v
+Print storage=c,n,v
+
+
+has search=n storage=n,v,c
+Print storage=n,v,c
+
+
+has search=v storage=v,c,n
+Print storage=v,c,n
+
+
+has search=c storage=c,n,v
+Print storage=c,n,v
+
+
+has search=c storage=n,v,c
+Print storage=n,v,c
+
+
+has search=g storage=v,c,c
+isUnique set=v,c result=false
+Print storage=v,c,c
+
+
+has search=v storage=c,c,g
+isUnique set=c,g result=false
+Print storage=c,c,g
+
+
+has search=v storage=c,g,v
+Print storage=c,g,v
+
+
+has search=h storage=g,v,v
+isUnique set=g,v result=false
+Print storage=g,v,v
+
+
+has search=z storage=v,v,h
+isUnique set=v,h result=false
+Print storage=v,v,h
+
+
+has search=v storage=v,h,z
+Print storage=v,h,z
+
+
+has search=z storage=h,z,v
+Print storage=h,z,v
+
+
+has search=w storage=z,v,z
+isUnique set=z,v result=false
+Print storage=z,v,z
+
+
+has search=z storage=v,z,w
+Print storage=v,z,w
+
+
+has search=t storage=z,w,z
+isUnique set=z,w result=false
+Print storage=z,w,z
+
+
+has search=w storage=w,z,t
+Print storage=w,z,t
+
+
+has search=z storage=z,t,w
+Print storage=z,t,w
+
+
+has search=w storage=t,w,z
+Print storage=t,w,z
+
+
+has search=t storage=w,z,w
+isUnique set=w,z result=false
+Print storage=w,z,w
+
+
+has search=z storage=z,w,t
+Print storage=z,w,t
+
+
+has search=w storage=w,t,z
+Print storage=w,t,z
+
+
+has search=t storage=t,z,w
+Print storage=t,z,w
+
+
+has search=w storage=z,w,t
+Print storage=z,w,t
+
+
+has search=q storage=w,t,w
+isUnique set=w,t result=false
+Print storage=w,t,w
+
+
+has search=t storage=t,w,q
+Print storage=t,w,q
+
+
+has search=t storage=w,q,t
+Print storage=w,q,t
+
+
+has search=r storage=q,t,t
+isUnique set=q,t result=false
+Print storage=q,t,t
+
+
+has search=l storage=t,t,r
+isUnique set=t,r result=false
+Print storage=t,t,r
+
+
+has search=r storage=t,r,l
+Print storage=t,r,l
+
+
+has search=v storage=r,l,r
+isUnique set=r,l result=false
+Print storage=r,l,r
+
+
+has search=r storage=l,r,v
+Print storage=l,r,v
+
+
+has search=d storage=r,v,r
+isUnique set=r,v result=false
+Print storage=r,v,r
+
+
+has search=d storage=v,r,d
+Print storage=v,r,d
+
+
+has search=z storage=r,d,d
+isUnique set=r,d result=false
+Print storage=r,d,d
+
+
+has search=t storage=d,d,z
+isUnique set=d,z result=false
+Print storage=d,d,z
+
+
+has search=z storage=d,z,t
+Print storage=d,z,t
+
+
+has search=r storage=z,t,z
+isUnique set=z,t result=false
+Print storage=z,t,z
+
+
+has search=z storage=t,z,r
+Print storage=t,z,r
+
+
+has search=c storage=z,r,z
+isUnique set=z,r result=false
+Print storage=z,r,z
+
+
+has search=c storage=r,z,c
+Print storage=r,z,c
+
+
+has search=c storage=z,c,c
+Print storage=z,c,c
+
+
+has search=g storage=c,c,c
+isUnique set=c result=false
+Print storage=c,c,c
+
+
+has search=m storage=c,c,g
+isUnique set=c,g result=false
+Print storage=c,c,g
+
+
+has search=m storage=c,g,m
+Print storage=c,g,m
+
+
+has search=q storage=g,m,m
+isUnique set=g,m result=false
+Print storage=g,m,m
+
+
+has search=g storage=m,m,q
+isUnique set=m,q result=false
+Print storage=m,m,q
+
+
+has search=q storage=m,q,g
+Print storage=m,q,g
+
+
+has search=j storage=q,g,q
+isUnique set=q,g result=false
+Print storage=q,g,q
+
+
+has search=g storage=g,q,j
+Print storage=g,q,j
+
+
+has search=q storage=q,j,g
+Print storage=q,j,g
+
+
+has search=j storage=j,g,q
+Print storage=j,g,q
+
+
+has search=g storage=g,q,j
+Print storage=g,q,j
+
+
+has search=j storage=q,j,g
+Print storage=q,j,g
+
+
+has search=q storage=j,g,j
+isUnique set=j,g result=false
+Print storage=j,g,j
+
+
+has search=q storage=g,j,q
+Print storage=g,j,q
+
+
+has search=s storage=j,q,q
+isUnique set=j,q result=false
+Print storage=j,q,q
+
+
+has search=p storage=q,q,s
+isUnique set=q,s result=false
+Print storage=q,q,s
+
+
+has search=q storage=q,s,p
+Print storage=q,s,p
+
+
+has search=q storage=s,p,q
+Print storage=s,p,q
+
+
+has search=p storage=p,q,q
+Print storage=p,q,q
+
+
+has search=j storage=q,q,p
+isUnique set=q,p result=false
+Print storage=q,q,p
+
+
+has search=p storage=q,p,j
+Print storage=q,p,j
+
+
+has search=p storage=p,j,p
+Print storage=p,j,p
+
+
+has search=b storage=j,p,p
+isUnique set=j,p result=false
+Print storage=j,p,p
+
+
+has search=g storage=p,p,b
+isUnique set=p,b result=false
+Print storage=p,p,b
+
+
+has search=g storage=p,b,g
+Print storage=p,b,g
+
+
+has search=c storage=b,g,g
+isUnique set=b,g result=false
+Print storage=b,g,g
+
+
+has search=h storage=g,g,c
+isUnique set=g,c result=false
+Print storage=g,g,c
+
+
+has search=c storage=g,c,h
+Print storage=g,c,h
+
+
+has search=q storage=c,h,c
+isUnique set=c,h result=false
+Print storage=c,h,c
+
+
+has search=c storage=h,c,q
+Print storage=h,c,q
+
+
+has search=p storage=c,q,c
+isUnique set=c,q result=false
+Print storage=c,q,c
+
+
+has search=q storage=q,c,p
+Print storage=q,c,p
+
+
+has search=q storage=c,p,q
+Print storage=c,p,q
+
+
+has search=g storage=p,q,q
+isUnique set=p,q result=false
+Print storage=p,q,q
+
+
+has search=b storage=q,q,g
+isUnique set=q,g result=false
+Print storage=q,q,g
+
+
+has search=g storage=q,g,b
+Print storage=q,g,b
+
+
+has search=d storage=g,b,g
+isUnique set=g,b result=false
+Print storage=g,b,g
+
+
+has search=b storage=b,g,d
+Print storage=b,g,d
+
+
+has search=b storage=g,d,b
+Print storage=g,d,b
+
+
+has search=s storage=d,b,b
+isUnique set=d,b result=false
+Print storage=d,b,b
+
+
+has search=p storage=b,b,s
+isUnique set=b,s result=false
+Print storage=b,b,s
+
+
+has search=b storage=b,s,p
+Print storage=b,s,p
+
+
+has search=b storage=s,p,b
+Print storage=s,p,b
+
+
+has search=r storage=p,b,b
+isUnique set=p,b result=false
+Print storage=p,b,b
+
+
+has search=b storage=b,b,r
+Print storage=b,b,r
+
+
+has search=h storage=b,r,b
+isUnique set=b,r result=false
+Print storage=b,r,b
+
+
+has search=r storage=r,b,h
+Print storage=r,b,h
+
+
+has search=h storage=b,h,r
+Print storage=b,h,r
+
+
+has search=z storage=h,r,h
+isUnique set=h,r result=false
+Print storage=h,r,h
+
+
+has search=h storage=r,h,z
+Print storage=r,h,z
+
+
+has search=q storage=h,z,h
+isUnique set=h,z result=false
+Print storage=h,z,h
+
+
+has search=h storage=z,h,q
+Print storage=z,h,q
+
+
+has search=r storage=h,q,h
+isUnique set=h,q result=false
+Print storage=h,q,h
+
+
+has search=q storage=q,h,r
+Print storage=q,h,r
+
+
+has search=h storage=h,r,q
+Print storage=h,r,q
+
+
+has search=h storage=r,q,h
+Print storage=r,q,h
+
+
+has search=h storage=q,h,h
+Print storage=q,h,h
+
+
+has search=t storage=h,h,h
+isUnique set=h result=false
+Print storage=h,h,h
+
+
+has search=b storage=h,h,t
+isUnique set=h,t result=false
+Print storage=h,h,t
+
+
+has search=h storage=h,t,b
+Print storage=h,t,b
+
+
+has search=h storage=t,b,h
+Print storage=t,b,h
+
+
+has search=v storage=b,h,h
+isUnique set=b,h result=false
+Print storage=b,h,h
+
+
+has search=s storage=h,h,v
+isUnique set=h,v result=false
+Print storage=h,h,v
+
+
+has search=h storage=h,v,s
+Print storage=h,v,s
+
+
+has search=s storage=v,s,h
+Print storage=v,s,h
+
+
+has search=p storage=s,h,s
+isUnique set=s,h result=false
+Print storage=s,h,s
+
+
+has search=s storage=h,s,p
+Print storage=h,s,p
+
+
+has search=v storage=s,p,s
+isUnique set=s,p result=false
+Print storage=s,p,s
+
+
+has search=s storage=p,s,v
+Print storage=p,s,v
+
+
+has search=g storage=s,v,s
+isUnique set=s,v result=false
+Print storage=s,v,s
+
+
+has search=g storage=v,s,g
+Print storage=v,s,g
+
+
+has search=j storage=s,g,g
+isUnique set=s,g result=false
+Print storage=s,g,g
+
+
+has search=d storage=g,g,j
+isUnique set=g,j result=false
+Print storage=g,g,j
+
+
+has search=j storage=g,j,d
+Print storage=g,j,d
+
+
+has search=w storage=j,d,j
+isUnique set=j,d result=false
+Print storage=j,d,j
+
+
+has search=j storage=d,j,w
+Print storage=d,j,w
+
+
+has search=w storage=j,w,j
+Print storage=j,w,j
+
+
+has search=v storage=w,j,w
+isUnique set=w,j result=false
+Print storage=w,j,w
+
+
+has search=j storage=j,w,v
+Print storage=j,w,v
+
+
+has search=v storage=w,v,j
+Print storage=w,v,j
+
+
+has search=d storage=v,j,v
+isUnique set=v,j result=false
+Print storage=v,j,v
+
+
+has search=v storage=j,v,d
+Print storage=j,v,d
+
+
+has search=w storage=v,d,v
+isUnique set=v,d result=false
+Print storage=v,d,v
+
+
+has search=d storage=d,v,w
+Print storage=d,v,w
+
+
+has search=d storage=v,w,d
+Print storage=v,w,d
+
+
+has search=j storage=w,d,d
+isUnique set=w,d result=false
+Print storage=w,d,d
+
+
+has search=g storage=d,d,j
+isUnique set=d,j result=false
+Print storage=d,d,j
+
+
+has search=g storage=d,j,g
+Print storage=d,j,g
+
+
+has search=m storage=j,g,g
+isUnique set=j,g result=false
+Print storage=j,g,g
+
+
+has search=r storage=g,g,m
+isUnique set=g,m result=false
+Print storage=g,g,m
+
+
+has search=r storage=g,m,r
+Print storage=g,m,r
+
+
+has search=b storage=m,r,r
+isUnique set=m,r result=false
+Print storage=m,r,r
+
+
+has search=n storage=r,r,b
+isUnique set=r,b result=false
+Print storage=r,r,b
+
+
+has search=r storage=r,b,n
+Print storage=r,b,n
+
+
+has search=r storage=b,n,r
+Print storage=b,n,r
+
+
+has search=z storage=n,r,r
+isUnique set=n,r result=false
+Print storage=n,r,r
+
+
+has search=t storage=r,r,z
+isUnique set=r,z result=false
+Print storage=r,r,z
+
+
+has search=t storage=r,z,t
+Print storage=r,z,t
+
+
+has search=h storage=z,t,t
+isUnique set=z,t result=false
+Print storage=z,t,t
+
+
+has search=l storage=t,t,h
+isUnique set=t,h result=false
+Print storage=t,t,h
+
+
+has search=l storage=t,h,l
+Print storage=t,h,l
+
+
+has search=l storage=h,l,l
+Print storage=h,l,l
+
+
+has search=h storage=l,l,l
+isUnique set=l result=false
+Print storage=l,l,l
+
+
+has search=l storage=l,l,h
+Print storage=l,l,h
+
+
+has search=c storage=l,h,l
+isUnique set=l,h result=false
+Print storage=l,h,l
+
+
+has search=l storage=h,l,c
+Print storage=h,l,c
+
+
+has search=b storage=l,c,l
+isUnique set=l,c result=false
+Print storage=l,c,l
+
+
+has search=c storage=c,l,b
+Print storage=c,l,b
+
+
+has search=l storage=l,b,c
+Print storage=l,b,c
+
+
+has search=b storage=b,c,l
+Print storage=b,c,l
+
+
+has search=b storage=c,l,b
+Print storage=c,l,b
+
+
+has search=h storage=l,b,b
+isUnique set=l,b result=false
+Print storage=l,b,b
+
+
+has search=p storage=b,b,h
+isUnique set=b,h result=false
+Print storage=b,b,h
+
+
+has search=b storage=b,h,p
+Print storage=b,h,p
+
+
+has search=h storage=h,p,b
+Print storage=h,p,b
+
+
+has search=p storage=p,b,h
+Print storage=p,b,h
+
+
+has search=h storage=b,h,p
+Print storage=b,h,p
+
+
+has search=j storage=h,p,h
+isUnique set=h,p result=false
+Print storage=h,p,h
+
+
+has search=h storage=p,h,j
+Print storage=p,h,j
+
+
+has search=c storage=h,j,h
+isUnique set=h,j result=false
+Print storage=h,j,h
+
+
+has search=c storage=j,h,c
+Print storage=j,h,c
+
+
+has search=d storage=h,c,c
+isUnique set=h,c result=false
+Print storage=h,c,c
+
+
+has search=w storage=c,c,d
+isUnique set=c,d result=false
+Print storage=c,c,d
+
+
+has search=c storage=c,d,w
+Print storage=c,d,w
+
+
+has search=c storage=d,w,c
+Print storage=d,w,c
+
+
+has search=d storage=w,c,c
+isUnique set=w,c result=false
+Print storage=w,c,c
+
+
+has search=b storage=c,c,d
+isUnique set=c,d result=false
+Print storage=c,c,d
+
+
+has search=b storage=c,d,b
+Print storage=c,d,b
+
+
+has search=j storage=d,b,b
+isUnique set=d,b result=false
+Print storage=d,b,b
+
+
+has search=r storage=b,b,j
+isUnique set=b,j result=false
+Print storage=b,b,j
+
+
+has search=b storage=b,j,r
+Print storage=b,j,r
+
+
+has search=j storage=j,r,b
+Print storage=j,r,b
+
+
+has search=j storage=r,b,j
+Print storage=r,b,j
+
+
+has search=m storage=b,j,j
+isUnique set=b,j result=false
+Print storage=b,j,j
+
+
+has search=r storage=j,j,m
+isUnique set=j,m result=false
+Print storage=j,j,m
+
+
+has search=j storage=j,m,r
+Print storage=j,m,r
+
+
+has search=r storage=m,r,j
+Print storage=m,r,j
+
+
+has search=h storage=r,j,r
+isUnique set=r,j result=false
+Print storage=r,j,r
+
+
+has search=h storage=j,r,h
+Print storage=j,r,h
+
+
+has search=n storage=r,h,h
+isUnique set=r,h result=false
+Print storage=r,h,h
+
+
+has search=l storage=h,h,n
+isUnique set=h,n result=false
+Print storage=h,h,n
+
+
+has search=n storage=h,n,l
+Print storage=h,n,l
+
+
+has search=j storage=n,l,n
+isUnique set=n,l result=false
+Print storage=n,l,n
+
+
+has search=l storage=l,n,j
+Print storage=l,n,j
+
+
+has search=l storage=n,j,l
+Print storage=n,j,l
+
+
+has search=l storage=j,l,l
+Print storage=j,l,l
+
+
+has search=t storage=l,l,l
+isUnique set=l result=false
+Print storage=l,l,l
+
+
+has search=w storage=l,l,t
+isUnique set=l,t result=false
+Print storage=l,l,t
+
+
+has search=l storage=l,t,w
+Print storage=l,t,w
+
+
+has search=t storage=t,w,l
+Print storage=t,w,l
+
+
+has search=l storage=w,l,t
+Print storage=w,l,t
+
+
+has search=m storage=l,t,l
+isUnique set=l,t result=false
+Print storage=l,t,l
+
+
+has search=m storage=t,l,m
+Print storage=t,l,m
+
+
+has search=l storage=l,m,m
+Print storage=l,m,m
+
+
+has search=q storage=m,m,l
+isUnique set=m,l result=false
+Print storage=m,m,l
+
+
+has search=l storage=m,l,q
+Print storage=m,l,q
+
+
+has search=n storage=l,q,l
+isUnique set=l,q result=false
+Print storage=l,q,l
+
+
+has search=q storage=q,l,n
+Print storage=q,l,n
+
+
+has search=n storage=l,n,q
+Print storage=l,n,q
+
+
+has search=t storage=n,q,n
+isUnique set=n,q result=false
+Print storage=n,q,n
+
+
+has search=q storage=q,n,t
+Print storage=q,n,t
+
+
+has search=n storage=n,t,q
+Print storage=n,t,q
+
+
+has search=n storage=t,q,n
+Print storage=t,q,n
+
+
+has search=t storage=q,n,n
+isUnique set=q,n result=false
+Print storage=q,n,n
+
+
+has search=s storage=n,n,t
+isUnique set=n,t result=false
+Print storage=n,n,t
+
+
+has search=n storage=n,t,s
+Print storage=n,t,s
+
+
+has search=s storage=t,s,n
+Print storage=t,s,n
+
+
+has search=q storage=s,n,s
+isUnique set=s,n result=false
+Print storage=s,n,s
+
+
+has search=q storage=n,s,q
+Print storage=n,s,q
+
+
+has search=v storage=s,q,q
+isUnique set=s,q result=false
+Print storage=s,q,q
+
+
+has search=t storage=q,q,v
+isUnique set=q,v result=false
+Print storage=q,q,v
+
+
+has search=v storage=q,v,t
+Print storage=q,v,t
+
+
+has search=w storage=v,t,v
+isUnique set=v,t result=false
+Print storage=v,t,v
+
+
+has search=v storage=t,v,w
+Print storage=t,v,w
+
+
+has search=g storage=v,w,v
+isUnique set=v,w result=false
+Print storage=v,w,v
+
+
+has search=w storage=w,v,g
+Print storage=w,v,g
+
+
+has search=v storage=v,g,w
+Print storage=v,g,w
+
+
+has search=w storage=g,w,v
+Print storage=g,w,v
+
+
+has search=n storage=w,v,w
+isUnique set=w,v result=false
+Print storage=w,v,w
+
+
+has search=n storage=v,w,n
+Print storage=v,w,n
+
+
+has search=c storage=w,n,n
+isUnique set=w,n result=false
+Print storage=w,n,n
+
+
+has search=g storage=n,n,c
+isUnique set=n,c result=false
+Print storage=n,n,c
+
+
+has search=c storage=n,c,g
+Print storage=n,c,g
+
+
+has search=d storage=c,g,c
+isUnique set=c,g result=false
+Print storage=c,g,c
+
+
+has search=c storage=g,c,d
+Print storage=g,c,d
+
+
+has search=t storage=c,d,c
+isUnique set=c,d result=false
+Print storage=c,d,c
+
+
+has search=d storage=d,c,t
+Print storage=d,c,t
+
+
+has search=d storage=c,t,d
+Print storage=c,t,d
+
+
+has search=n storage=t,d,d
+isUnique set=t,d result=false
+Print storage=t,d,d
+
+
+has search=t storage=d,d,n
+isUnique set=d,n result=false
+Print storage=d,d,n
+
+
+has search=t storage=d,n,t
+Print storage=d,n,t
+
+
+has search=f storage=n,t,t
+isUnique set=n,t result=false
+Print storage=n,t,t
+
+
+has search=j storage=t,t,f
+isUnique set=t,f result=false
+Print storage=t,t,f
+
+
+has search=f storage=t,f,j
+Print storage=t,f,j
+
+
+has search=q storage=f,j,f
+isUnique set=f,j result=false
+Print storage=f,j,f
+
+
+has search=f storage=j,f,q
+Print storage=j,f,q
+
+
+has search=t storage=f,q,f
+isUnique set=f,q result=false
+Print storage=f,q,f
+
+
+has search=t storage=q,f,t
+Print storage=q,f,t
+
+
+has search=r storage=f,t,t
+isUnique set=f,t result=false
+Print storage=f,t,t
+
+
+has search=h storage=t,t,r
+isUnique set=t,r result=false
+Print storage=t,t,r
+
+
+has search=r storage=t,r,h
+Print storage=t,r,h
+
+
+has search=j storage=r,h,r
+isUnique set=r,h result=false
+Print storage=r,h,r
+
+
+has search=h storage=h,r,j
+Print storage=h,r,j
+
+
+has search=j storage=r,j,h
+Print storage=r,j,h
+
+
+has search=q storage=j,h,j
+isUnique set=j,h result=false
+Print storage=j,h,j
+
+
+has search=q storage=h,j,q
+Print storage=h,j,q
+
+
+has search=c storage=j,q,q
+isUnique set=j,q result=false
+Print storage=j,q,q
+
+
+has search=n storage=q,q,c
+isUnique set=q,c result=false
+Print storage=q,q,c
+
+
+has search=n storage=q,c,n
+Print storage=q,c,n
+
+
+has search=s storage=c,n,n
+isUnique set=c,n result=false
+Print storage=c,n,n
+
+
+has search=m storage=n,n,s
+isUnique set=n,s result=false
+Print storage=n,n,s
+
+
+has search=n storage=n,s,m
+Print storage=n,s,m
+
+
+has search=m storage=s,m,n
+Print storage=s,m,n
+
+
+has search=g storage=m,n,m
+isUnique set=m,n result=false
+Print storage=m,n,m
+
+
+has search=m storage=n,m,g
+Print storage=n,m,g
+
+
+has search=q storage=m,g,m
+isUnique set=m,g result=false
+Print storage=m,g,m
+
+
+has search=g storage=g,m,q
+Print storage=g,m,q
+
+
+has search=m storage=m,q,g
+Print storage=m,q,g
+
+
+has search=g storage=q,g,m
+Print storage=q,g,m
+
+
+has search=b storage=g,m,g
+isUnique set=g,m result=false
+Print storage=g,m,g
+
+
+has search=b storage=m,g,b
+Print storage=m,g,b
+
+
+has search=l storage=g,b,b
+isUnique set=g,b result=false
+Print storage=g,b,b
+
+
+has search=c storage=b,b,l
+isUnique set=b,l result=false
+Print storage=b,b,l
+
+
+has search=c storage=b,l,c
+Print storage=b,l,c
+
+
+has search=t storage=l,c,c
+isUnique set=l,c result=false
+Print storage=l,c,c
+
+
+has search=n storage=c,c,t
+isUnique set=c,t result=false
+Print storage=c,c,t
+
+
+has search=t storage=c,t,n
+Print storage=c,t,n
+
+
+has search=r storage=t,n,t
+isUnique set=t,n result=false
+Print storage=t,n,t
+
+
+has search=n storage=n,t,r
+Print storage=n,t,r
+
+
+has search=t storage=t,r,n
+Print storage=t,r,n
+
+
+has search=n storage=r,n,t
+Print storage=r,n,t
+
+
+has search=c storage=n,t,n
+isUnique set=n,t result=false
+Print storage=n,t,n
+
+
+has search=c storage=t,n,c
+Print storage=t,n,c
+
+
+has search=n storage=n,c,c
+Print storage=n,c,c
+
+
+has search=v storage=c,c,n
+isUnique set=c,n result=false
+Print storage=c,c,n
+
+
+has search=v storage=c,n,v
+Print storage=c,n,v
+
+
+has search=m storage=n,v,v
+isUnique set=n,v result=false
+Print storage=n,v,v
+
+
+has search=p storage=v,v,m
+isUnique set=v,m result=false
+Print storage=v,v,m
+
+
+has search=m storage=v,m,p
+Print storage=v,m,p
+
+
+has search=j storage=m,p,m
+isUnique set=m,p result=false
+Print storage=m,p,m
+
+
+has search=j storage=p,m,j
+Print storage=p,m,j
+
+
+has search=v storage=m,j,j
+isUnique set=m,j result=false
+Print storage=m,j,j
+
+
+has search=f storage=j,j,v
+isUnique set=j,v result=false
+Print storage=j,j,v
+
+
+has search=j storage=j,v,f
+Print storage=j,v,f
+
+
+has search=f storage=v,f,j
+Print storage=v,f,j
+
+
+has search=r storage=f,j,f
+isUnique set=f,j result=false
+Print storage=f,j,f
+
+
+has search=r storage=j,f,r
+Print storage=j,f,r
+
+
+has search=b storage=f,r,r
+isUnique set=f,r result=false
+Print storage=f,r,r
+
+
+has search=p storage=r,r,b
+isUnique set=r,b result=false
+Print storage=r,r,b
+
+
+has search=b storage=r,b,p
+Print storage=r,b,p
+
+
+has search=t storage=b,p,b
+isUnique set=b,p result=false
+Print storage=b,p,b
+
+
+has search=t storage=p,b,t
+Print storage=p,b,t
+
+
+has search=s storage=b,t,t
+isUnique set=b,t result=false
+Print storage=b,t,t
+
+
+has search=b storage=t,t,s
+isUnique set=t,s result=false
+Print storage=t,t,s
+
+
+has search=t storage=t,s,b
+Print storage=t,s,b
+
+
+has search=t storage=s,b,t
+Print storage=s,b,t
+
+
+has search=v storage=b,t,t
+isUnique set=b,t result=false
+Print storage=b,t,t
+
+
+has search=n storage=t,t,v
+isUnique set=t,v result=false
+Print storage=t,t,v
+
+
+has search=t storage=t,v,n
+Print storage=t,v,n
+
+
+has search=t storage=v,n,t
+Print storage=v,n,t
+
+
+has search=m storage=n,t,t
+isUnique set=n,t result=false
+Print storage=n,t,t
+
+
+has search=n storage=t,t,m
+isUnique set=t,m result=false
+Print storage=t,t,m
+
+
+has search=n storage=t,m,n
+Print storage=t,m,n
+
+
+has search=j storage=m,n,n
+isUnique set=m,n result=false
+Print storage=m,n,n
+
+
+has search=d storage=n,n,j
+isUnique set=n,j result=false
+Print storage=n,n,j
+
+
+has search=n storage=n,j,d
+Print storage=n,j,d
+
+
+has search=n storage=j,d,n
+Print storage=j,d,n
+
+
+has search=d storage=d,n,n
+Print storage=d,n,n
+
+
+has search=n storage=n,n,d
+Print storage=n,n,d
+
+
+has search=z storage=n,d,n
+isUnique set=n,d result=false
+Print storage=n,d,n
+
+
+has search=n storage=d,n,z
+Print storage=d,n,z
+
+
+has search=t storage=n,z,n
+isUnique set=n,z result=false
+Print storage=n,z,n
+
+
+has search=n storage=z,n,t
+Print storage=z,n,t
+
+
+has search=r storage=n,t,n
+isUnique set=n,t result=false
+Print storage=n,t,n
+
+
+has search=n storage=t,n,r
+Print storage=t,n,r
+
+
+has search=w storage=n,r,n
+isUnique set=n,r result=false
+Print storage=n,r,n
+
+
+has search=r storage=r,n,w
+Print storage=r,n,w
+
+
+has search=w storage=n,w,r
+Print storage=n,w,r
+
+
+has search=c storage=w,r,w
+isUnique set=w,r result=false
+Print storage=w,r,w
+
+
+has search=c storage=r,w,c
+Print storage=r,w,c
+
+
+has search=t storage=w,c,c
+isUnique set=w,c result=false
+Print storage=w,c,c
+
+
+has search=l storage=c,c,t
+isUnique set=c,t result=false
+Print storage=c,c,t
+
+
+has search=l storage=c,t,l
+Print storage=c,t,l
+
+
+has search=v storage=t,l,l
+isUnique set=t,l result=false
+Print storage=t,l,l
+
+
+has search=h storage=l,l,v
+isUnique set=l,v result=false
+Print storage=l,l,v
+
+
+has search=v storage=l,v,h
+Print storage=l,v,h
+
+
+has search=q storage=v,h,v
+isUnique set=v,h result=false
+Print storage=v,h,v
+
+
+has search=h storage=h,v,q
+Print storage=h,v,q
+
+
+has search=h storage=v,q,h
+Print storage=v,q,h
+
+
+has search=d storage=q,h,h
+isUnique set=q,h result=false
+Print storage=q,h,h
+
+
+has search=d storage=h,h,d
+Print storage=h,h,d
+
+
+has search=m storage=h,d,d
+isUnique set=h,d result=false
+Print storage=h,d,d
+
+
+has search=z storage=d,d,m
+isUnique set=d,m result=false
+Print storage=d,d,m
+
+
+has search=z storage=d,m,z
+Print storage=d,m,z
+
+
+has search=t storage=m,z,z
+isUnique set=m,z result=false
+Print storage=m,z,z
+
+
+has search=p storage=z,z,t
+isUnique set=z,t result=false
+Print storage=z,z,t
+
+
+has search=p storage=z,t,p
+Print storage=z,t,p
+
+
+has search=p storage=t,p,p
+Print storage=t,p,p
+
+
+has search=h storage=p,p,p
+isUnique set=p result=false
+Print storage=p,p,p
+
+
+has search=g storage=p,p,h
+isUnique set=p,h result=false
+Print storage=p,p,h
+
+
+has search=h storage=p,h,g
+Print storage=p,h,g
+
+
+has search=p storage=h,g,h
+isUnique set=h,g result=false
+Print storage=h,g,h
+
+
+has search=h storage=g,h,p
+Print storage=g,h,p
+
+
+has search=z storage=h,p,h
+isUnique set=h,p result=false
+Print storage=h,p,h
+
+
+has search=z storage=p,h,z
+Print storage=p,h,z
+
+
+has search=g storage=h,z,z
+isUnique set=h,z result=false
+Print storage=h,z,z
+
+
+has search=l storage=z,z,g
+isUnique set=z,g result=false
+Print storage=z,z,g
+
+
+has search=z storage=z,g,l
+Print storage=z,g,l
+
+
+has search=l storage=g,l,z
+Print storage=g,l,z
+
+
+has search=n storage=l,z,l
+isUnique set=l,z result=false
+Print storage=l,z,l
+
+
+has search=n storage=z,l,n
+Print storage=z,l,n
+
+
+has search=f storage=l,n,n
+isUnique set=l,n result=false
+Print storage=l,n,n
+
+
+has search=c storage=n,n,f
+isUnique set=n,f result=false
+Print storage=n,n,f
+
+
+has search=c storage=n,f,c
+Print storage=n,f,c
+
+
+has search=r storage=f,c,c
+isUnique set=f,c result=false
+Print storage=f,c,c
+
+
+has search=f storage=c,c,r
+isUnique set=c,r result=false
+Print storage=c,c,r
+
+
+has search=f storage=c,r,f
+Print storage=c,r,f
+
+
+has search=f storage=r,f,f
+Print storage=r,f,f
+
+
+has search=v storage=f,f,f
+isUnique set=f result=false
+Print storage=f,f,f
+
+
+has search=v storage=f,f,v
+Print storage=f,f,v
+
+
+has search=h storage=f,v,v
+isUnique set=f,v result=false
+Print storage=f,v,v
+
+
+has search=l storage=v,v,h
+isUnique set=v,h result=false
+Print storage=v,v,h
+
+
+has search=l storage=v,h,l
+Print storage=v,h,l
+
+
+has search=p storage=h,l,l
+isUnique set=h,l result=false
+Print storage=h,l,l
+
+
+has search=s storage=l,l,p
+isUnique set=l,p result=false
+Print storage=l,l,p
+
+
+has search=p storage=l,p,s
+Print storage=l,p,s
+
+
+has search=w storage=p,s,p
+isUnique set=p,s result=false
+Print storage=p,s,p
+
+
+has search=s storage=s,p,w
+Print storage=s,p,w
+
+
+has search=s storage=p,w,s
+Print storage=p,w,s
+
+
+has search=s storage=w,s,s
+Print storage=w,s,s
+
+
+has search=t storage=s,s,s
+isUnique set=s result=false
+Print storage=s,s,s
+
+
+has search=w storage=s,s,t
+isUnique set=s,t result=false
+Print storage=s,s,t
+
+
+has search=s storage=s,t,w
+Print storage=s,t,w
+
+
+has search=t storage=t,w,s
+Print storage=t,w,s
+
+
+has search=s storage=w,s,t
+Print storage=w,s,t
+
+
+has search=v storage=s,t,s
+isUnique set=s,t result=false
+Print storage=s,t,s
+
+
+has search=t storage=t,s,v
+Print storage=t,s,v
+
+
+has search=t storage=s,v,t
+Print storage=s,v,t
+
+
+has search=c storage=v,t,t
+isUnique set=v,t result=false
+Print storage=v,t,t
+
+
+has search=r storage=t,t,c
+isUnique set=t,c result=false
+Print storage=t,t,c
+
+
+has search=t storage=t,c,r
+Print storage=t,c,r
+
+
+has search=c storage=c,r,t
+Print storage=c,r,t
+
+
+has search=c storage=r,t,c
+Print storage=r,t,c
+
+
+has search=f storage=t,c,c
+isUnique set=t,c result=false
+Print storage=t,c,c
+
+
+has search=s storage=c,c,f
+isUnique set=c,f result=false
+Print storage=c,c,f
+
+
+has search=s storage=c,f,s
+Print storage=c,f,s
+
+
+has search=b storage=f,s,s
+isUnique set=f,s result=false
+Print storage=f,s,s
+
+
+has search=c storage=s,s,b
+isUnique set=s,b result=false
+Print storage=s,s,b
+
+
+has search=c storage=s,b,c
+Print storage=s,b,c
+
+
+has search=d storage=b,c,c
+isUnique set=b,c result=false
+Print storage=b,c,c
+
+
+has search=j storage=c,c,d
+isUnique set=c,d result=false
+Print storage=c,c,d
+
+
+has search=d storage=c,d,j
+Print storage=c,d,j
+
+
+has search=q storage=d,j,d
+isUnique set=d,j result=false
+Print storage=d,j,d
+
+
+has search=d storage=j,d,q
+Print storage=j,d,q
+
+
+has search=f storage=d,q,d
+isUnique set=d,q result=false
+Print storage=d,q,d
+
+
+has search=q storage=q,d,f
+Print storage=q,d,f
+
+
+has search=d storage=d,f,q
+Print storage=d,f,q
+
+
+has search=d storage=f,q,d
+Print storage=f,q,d
+
+
+has search=r storage=q,d,d
+isUnique set=q,d result=false
+Print storage=q,d,d
+
+
+has search=b storage=d,d,r
+isUnique set=d,r result=false
+Print storage=d,d,r
+
+
+has search=r storage=d,r,b
+Print storage=d,r,b
+
+
+has search=q storage=r,b,r
+isUnique set=r,b result=false
+Print storage=r,b,r
+
+
+has search=b storage=b,r,q
+Print storage=b,r,q
+
+
+has search=b storage=r,q,b
+Print storage=r,q,b
+
+
+has search=t storage=q,b,b
+isUnique set=q,b result=false
+Print storage=q,b,b
+
+
+has search=l storage=b,b,t
+isUnique set=b,t result=false
+Print storage=b,b,t
+
+
+has search=l storage=b,t,l
+Print storage=b,t,l
+
+
+has search=m storage=t,l,l
+isUnique set=t,l result=false
+Print storage=t,l,l
+
+
+has search=m storage=l,l,m
+Print storage=l,l,m
+
+
+has search=s storage=l,m,m
+isUnique set=l,m result=false
+Print storage=l,m,m
+
+
+has search=f storage=m,m,s
+isUnique set=m,s result=false
+Print storage=m,m,s
+
+
+has search=m storage=m,s,f
+Print storage=m,s,f
+
+
+has search=f storage=s,f,m
+Print storage=s,f,m
+
+
+has search=c storage=f,m,f
+isUnique set=f,m result=false
+Print storage=f,m,f
+
+
+has search=m storage=m,f,c
+Print storage=m,f,c
+
+
+has search=m storage=f,c,m
+Print storage=f,c,m
+
+
+has search=z storage=c,m,m
+isUnique set=c,m result=false
+Print storage=c,m,m
+
+
+has search=w storage=m,m,z
+isUnique set=m,z result=false
+Print storage=m,m,z
+
+
+has search=z storage=m,z,w
+Print storage=m,z,w
+
+
+has search=p storage=z,w,z
+isUnique set=z,w result=false
+Print storage=z,w,z
+
+
+has search=z storage=w,z,p
+Print storage=w,z,p
+
+
+has search=n storage=z,p,z
+isUnique set=z,p result=false
+Print storage=z,p,z
+
+
+has search=p storage=p,z,n
+Print storage=p,z,n
+
+
+has search=n storage=z,n,p
+Print storage=z,n,p
+
+
+has search=t storage=n,p,n
+isUnique set=n,p result=false
+Print storage=n,p,n
+
+
+has search=t storage=p,n,t
+Print storage=p,n,t
+
+
+has search=j storage=n,t,t
+isUnique set=n,t result=false
+Print storage=n,t,t
+
+
+has search=g storage=t,t,j
+isUnique set=t,j result=false
+Print storage=t,t,j
+
+
+has search=t storage=t,j,g
+Print storage=t,j,g
+
+
+has search=g storage=j,g,t
+Print storage=j,g,t
+
+
+has search=b storage=g,t,g
+isUnique set=g,t result=false
+Print storage=g,t,g
+
+
+has search=b storage=t,g,b
+Print storage=t,g,b
+
+
+has search=d storage=g,b,b
+isUnique set=g,b result=false
+Print storage=g,b,b
+
+
+has search=t storage=b,b,d
+isUnique set=b,d result=false
+Print storage=b,b,d
+
+
+has search=d storage=b,d,t
+Print storage=b,d,t
+
+
+has search=v storage=d,t,d
+isUnique set=d,t result=false
+Print storage=d,t,d
+
+
+has search=d storage=t,d,v
+Print storage=t,d,v
+
+
+has search=w storage=d,v,d
+isUnique set=d,v result=false
+Print storage=d,v,d
+
+
+has search=w storage=v,d,w
+Print storage=v,d,w
+
+
+has search=p storage=d,w,w
+isUnique set=d,w result=false
+Print storage=d,w,w
+
+
+has search=m storage=w,w,p
+isUnique set=w,p result=false
+Print storage=w,w,p
+
+
+has search=p storage=w,p,m
+Print storage=w,p,m
+
+
+has search=h storage=p,m,p
+isUnique set=p,m result=false
+Print storage=p,m,p
+
+
+has search=p storage=m,p,h
+Print storage=m,p,h
+
+
+has search=p storage=p,h,p
+Print storage=p,h,p
+
+
+has search=r storage=h,p,p
+isUnique set=h,p result=false
+Print storage=h,p,p
+
+
+has search=s storage=p,p,r
+isUnique set=p,r result=false
+Print storage=p,p,r
+
+
+has search=r storage=p,r,s
+Print storage=p,r,s
+
+
+has search=j storage=r,s,r
+isUnique set=r,s result=false
+Print storage=r,s,r
+
+
+has search=r storage=s,r,j
+Print storage=s,r,j
+
+
+has search=b storage=r,j,r
+isUnique set=r,j result=false
+Print storage=r,j,r
+
+
+has search=r storage=j,r,b
+Print storage=j,r,b
+
+
+has search=q storage=r,b,r
+isUnique set=r,b result=false
+Print storage=r,b,r
+
+
+has search=b storage=b,r,q
+Print storage=b,r,q
+
+
+has search=q storage=r,q,b
+Print storage=r,q,b
+
+
+has search=w storage=q,b,q
+isUnique set=q,b result=false
+Print storage=q,b,q
+
+
+has search=w storage=b,q,w
+Print storage=b,q,w
+
+
+has search=l storage=q,w,w
+isUnique set=q,w result=false
+Print storage=q,w,w
+
+
+has search=j storage=w,w,l
+isUnique set=w,l result=false
+Print storage=w,w,l
+
+
+has search=l storage=w,l,j
+Print storage=w,l,j
+
+
+has search=s storage=l,j,l
+isUnique set=l,j result=false
+Print storage=l,j,l
+
+
+has search=l storage=j,l,s
+Print storage=j,l,s
+
+
+has search=r storage=l,s,l
+isUnique set=l,s result=false
+Print storage=l,s,l
+
+
+has search=l storage=s,l,r
+Print storage=s,l,r
+
+
+has search=r storage=l,r,l
+Print storage=l,r,l
+
+
+has search=h storage=r,l,r
+isUnique set=r,l result=false
+Print storage=r,l,r
+
+
+has search=h storage=l,r,h
+Print storage=l,r,h
+
+
+has search=p storage=r,h,h
+isUnique set=r,h result=false
+Print storage=r,h,h
+
+
+has search=c storage=h,h,p
+isUnique set=h,p result=false
+Print storage=h,h,p
+
+
+has search=h storage=h,p,c
+Print storage=h,p,c
+
+
+has search=p storage=p,c,h
+Print storage=p,c,h
+
+
+has search=c storage=c,h,p
+Print storage=c,h,p
+
+
+has search=p storage=h,p,c
+Print storage=h,p,c
+
+
+has search=r storage=p,c,p
+isUnique set=p,c result=false
+Print storage=p,c,p
+
+
+has search=c storage=c,p,r
+Print storage=c,p,r
+
+
+has search=r storage=p,r,c
+Print storage=p,r,c
+
+
+has search=t storage=r,c,r
+isUnique set=r,c result=false
+Print storage=r,c,r
+
+
+has search=c storage=c,r,t
+Print storage=c,r,t
+
+
+has search=r storage=r,t,c
+Print storage=r,t,c
+
+
+has search=c storage=t,c,r
+Print storage=t,c,r
+
+
+has search=f storage=c,r,c
+isUnique set=c,r result=false
+Print storage=c,r,c
+
+
+has search=c storage=r,c,f
+Print storage=r,c,f
+
+
+has search=f storage=c,f,c
+Print storage=c,f,c
+
+
+has search=s storage=f,c,f
+isUnique set=f,c result=false
+Print storage=f,c,f
+
+
+has search=s storage=c,f,s
+Print storage=c,f,s
+
+
+has search=n storage=f,s,s
+isUnique set=f,s result=false
+Print storage=f,s,s
+
+
+has search=d storage=s,s,n
+isUnique set=s,n result=false
+Print storage=s,s,n
+
+
+has search=s storage=s,n,d
+Print storage=s,n,d
+
+
+has search=s storage=n,d,s
+Print storage=n,d,s
+
+
+has search=p storage=d,s,s
+isUnique set=d,s result=false
+Print storage=d,s,s
+
+
+has search=d storage=s,s,p
+isUnique set=s,p result=false
+Print storage=s,s,p
+
+
+has search=d storage=s,p,d
+Print storage=s,p,d
+
+
+has search=c storage=p,d,d
+isUnique set=p,d result=false
+Print storage=p,d,d
+
+
+has search=j storage=d,d,c
+isUnique set=d,c result=false
+Print storage=d,d,c
+
+
+has search=j storage=d,c,j
+Print storage=d,c,j
+
+
+has search=j storage=c,j,j
+Print storage=c,j,j
+
+
+has search=f storage=j,j,j
+isUnique set=j result=false
+Print storage=j,j,j
+
+
+has search=m storage=j,j,f
+isUnique set=j,f result=false
+Print storage=j,j,f
+
+
+has search=f storage=j,f,m
+Print storage=j,f,m
+
+
+has search=q storage=f,m,f
+isUnique set=f,m result=false
+Print storage=f,m,f
+
+
+has search=f storage=m,f,q
+Print storage=m,f,q
+
+
+has search=g storage=f,q,f
+isUnique set=f,q result=false
+Print storage=f,q,f
+
+
+has search=g storage=q,f,g
+Print storage=q,f,g
+
+
+has search=m storage=f,g,g
+isUnique set=f,g result=false
+Print storage=f,g,g
+
+
+has search=s storage=g,g,m
+isUnique set=g,m result=false
+Print storage=g,g,m
+
+
+has search=s storage=g,m,s
+Print storage=g,m,s
+
+
+has search=n storage=m,s,s
+isUnique set=m,s result=false
+Print storage=m,s,s
+
+
+has search=h storage=s,s,n
+isUnique set=s,n result=false
+Print storage=s,s,n
+
+
+has search=s storage=s,n,h
+Print storage=s,n,h
+
+
+has search=n storage=n,h,s
+Print storage=n,h,s
+
+
+has search=h storage=h,s,n
+Print storage=h,s,n
+
+
+has search=n storage=s,n,h
+Print storage=s,n,h
+
+
+has search=p storage=n,h,n
+isUnique set=n,h result=false
+Print storage=n,h,n
+
+
+has search=n storage=h,n,p
+Print storage=h,n,p
+
+
+has search=c storage=n,p,n
+isUnique set=n,p result=false
+Print storage=n,p,n
+
+
+has search=n storage=p,n,c
+Print storage=p,n,c
+
+
+has search=f storage=n,c,n
+isUnique set=n,c result=false
+Print storage=n,c,n
+
+
+has search=n storage=c,n,f
+Print storage=c,n,f
+
+
+has search=m storage=n,f,n
+isUnique set=n,f result=false
+Print storage=n,f,n
+
+
+has search=f storage=f,n,m
+Print storage=f,n,m
+
+
+has search=f storage=n,m,f
+Print storage=n,m,f
+
+
+has search=d storage=m,f,f
+isUnique set=m,f result=false
+Print storage=m,f,f
+
+
+has search=r storage=f,f,d
+isUnique set=f,d result=false
+Print storage=f,f,d
+
+
+has search=d storage=f,d,r
+Print storage=f,d,r
+
+
+has search=j storage=d,r,d
+isUnique set=d,r result=false
+Print storage=d,r,d
+
+
+has search=d storage=r,d,j
+Print storage=r,d,j
+
+
+has search=h storage=d,j,d
+isUnique set=d,j result=false
+Print storage=d,j,d
+
+
+has search=j storage=j,d,h
+Print storage=j,d,h
+
+
+has search=j storage=d,h,j
+Print storage=d,h,j
+
+
+has search=r storage=h,j,j
+isUnique set=h,j result=false
+Print storage=h,j,j
+
+
+has search=g storage=j,j,r
+isUnique set=j,r result=false
+Print storage=j,j,r
+
+
+has search=j storage=j,r,g
+Print storage=j,r,g
+
+
+has search=r storage=r,g,j
+Print storage=r,g,j
+
+
+has search=j storage=g,j,r
+Print storage=g,j,r
+
+
+has search=g storage=j,r,j
+isUnique set=j,r result=false
+Print storage=j,r,j
+
+
+has search=j storage=r,j,g
+Print storage=r,j,g
+
+
+has search=q storage=j,g,j
+isUnique set=j,g result=false
+Print storage=j,g,j
+
+
+has search=g storage=g,j,q
+Print storage=g,j,q
+
+
+has search=j storage=j,q,g
+Print storage=j,q,g
+
+
+has search=q storage=q,g,j
+Print storage=q,g,j
+
+
+has search=q storage=g,j,q
+Print storage=g,j,q
+
+
+has search=l storage=j,q,q
+isUnique set=j,q result=false
+Print storage=j,q,q
+
+
+has search=m storage=q,q,l
+isUnique set=q,l result=false
+Print storage=q,q,l
+
+
+has search=l storage=q,l,m
+Print storage=q,l,m
+
+
+has search=l storage=l,m,l
+Print storage=l,m,l
+
+
+has search=j storage=m,l,l
+isUnique set=m,l result=false
+Print storage=m,l,l
+
+
+has search=f storage=l,l,j
+isUnique set=l,j result=false
+Print storage=l,l,j
+
+
+has search=f storage=l,j,f
+Print storage=l,j,f
+
+
+has search=b storage=j,f,f
+isUnique set=j,f result=false
+Print storage=j,f,f
+
+
+has search=c storage=f,f,b
+isUnique set=f,b result=false
+Print storage=f,f,b
+
+
+has search=f storage=f,b,c
+Print storage=f,b,c
+
+
+has search=c storage=b,c,f
+Print storage=b,c,f
+
+
+has search=r storage=c,f,c
+isUnique set=c,f result=false
+Print storage=c,f,c
+
+
+has search=r storage=f,c,r
+Print storage=f,c,r
+
+
+has search=r storage=c,r,r
+Print storage=c,r,r
+
+
+has search=z storage=r,r,r
+isUnique set=r result=false
+Print storage=r,r,r
+
+
+has search=w storage=r,r,z
+isUnique set=r,z result=false
+Print storage=r,r,z
+
+
+has search=w storage=r,z,w
+Print storage=r,z,w
+
+
+has search=f storage=z,w,w
+isUnique set=z,w result=false
+Print storage=z,w,w
+
+
+has search=t storage=w,w,f
+isUnique set=w,f result=false
+Print storage=w,w,f
+
+
+has search=w storage=w,f,t
+Print storage=w,f,t
+
+
+has search=t storage=f,t,w
+Print storage=f,t,w
+
+
+has search=r storage=t,w,t
+isUnique set=t,w result=false
+Print storage=t,w,t
+
+
+has search=r storage=w,t,r
+Print storage=w,t,r
+
+
+has search=p storage=t,r,r
+isUnique set=t,r result=false
+Print storage=t,r,r
+
+
+has search=g storage=r,r,p
+isUnique set=r,p result=false
+Print storage=r,r,p
+
+
+has search=p storage=r,p,g
+Print storage=r,p,g
+
+
+has search=p storage=p,g,p
+Print storage=p,g,p
+
+
+has search=r storage=g,p,p
+isUnique set=g,p result=false
+Print storage=g,p,p
+
+
+has search=q storage=p,p,r
+isUnique set=p,r result=false
+Print storage=p,p,r
+
+
+has search=q storage=p,r,q
+Print storage=p,r,q
+
+
+has search=m storage=r,q,q
+isUnique set=r,q result=false
+Print storage=r,q,q
+
+
+has search=r storage=q,q,m
+isUnique set=q,m result=false
+Print storage=q,q,m
+
+
+has search=m storage=q,m,r
+Print storage=q,m,r
+
+
+has search=h storage=m,r,m
+isUnique set=m,r result=false
+Print storage=m,r,m
+
+
+has search=m storage=r,m,h
+Print storage=r,m,h
+
+
+has search=w storage=m,h,m
+isUnique set=m,h result=false
+Print storage=m,h,m
+
+
+has search=h storage=h,m,w
+Print storage=h,m,w
+
+
+has search=w storage=m,w,h
+Print storage=m,w,h
+
+
+has search=m storage=w,h,w
+isUnique set=w,h result=false
+Print storage=w,h,w
+
+
+has search=m storage=h,w,m
+Print storage=h,w,m
+
+
+has search=c storage=w,m,m
+isUnique set=w,m result=false
+Print storage=w,m,m
+
+
+has search=r storage=m,m,c
+isUnique set=m,c result=false
+Print storage=m,m,c
+
+
+has search=r storage=m,c,r
+Print storage=m,c,r
+
+
+has search=h storage=c,r,r
+isUnique set=c,r result=false
+Print storage=c,r,r
+
+
+has search=q storage=r,r,h
+isUnique set=r,h result=false
+Print storage=r,r,h
+
+
+has search=r storage=r,h,q
+Print storage=r,h,q
+
+
+has search=q storage=h,q,r
+Print storage=h,q,r
+
+
+has search=w storage=q,r,q
+isUnique set=q,r result=false
+Print storage=q,r,q
+
+
+has search=q storage=r,q,w
+Print storage=r,q,w
+
+
+has search=p storage=q,w,q
+isUnique set=q,w result=false
+Print storage=q,w,q
+
+
+has search=p storage=w,q,p
+Print storage=w,q,p
+
+
+has search=w storage=q,p,p
+isUnique set=q,p result=false
+Print storage=q,p,p
+
+
+has search=j storage=p,p,w
+isUnique set=p,w result=false
+Print storage=p,p,w
+
+
+has search=w storage=p,w,j
+Print storage=p,w,j
+
+
+has search=g storage=w,j,w
+isUnique set=w,j result=false
+Print storage=w,j,w
+
+
+has search=g storage=j,w,g
+Print storage=j,w,g
+
+
+has search=p storage=w,g,g
+isUnique set=w,g result=false
+Print storage=w,g,g
+
+
+has search=d storage=g,g,p
+isUnique set=g,p result=false
+Print storage=g,g,p
+
+
+has search=p storage=g,p,d
+Print storage=g,p,d
+
+
+has search=g storage=p,d,p
+isUnique set=p,d result=false
+Print storage=p,d,p
+
+
+has search=p storage=d,p,g
+Print storage=d,p,g
+
+
+has search=v storage=p,g,p
+isUnique set=p,g result=false
+Print storage=p,g,p
+
+
+has search=g storage=g,p,v
+Print storage=g,p,v
+
+
+has search=v storage=p,v,g
+Print storage=p,v,g
+
+
+has search=z storage=v,g,v
+isUnique set=v,g result=false
+Print storage=v,g,v
+
+
+has search=v storage=g,v,z
+Print storage=g,v,z
+
+
+has search=t storage=v,z,v
+isUnique set=v,z result=false
+Print storage=v,z,v
+
+
+has search=t storage=z,v,t
+Print storage=z,v,t
+
+
+has search=q storage=v,t,t
+isUnique set=v,t result=false
+Print storage=v,t,t
+
+
+has search=l storage=t,t,q
+isUnique set=t,q result=false
+Print storage=t,t,q
+
+
+has search=l storage=t,q,l
+Print storage=t,q,l
+
+
+has search=j storage=q,l,l
+isUnique set=q,l result=false
+Print storage=q,l,l
+
+
+has search=h storage=l,l,j
+isUnique set=l,j result=false
+Print storage=l,l,j
+
+
+has search=h storage=l,j,h
+Print storage=l,j,h
+
+
+has search=b storage=j,h,h
+isUnique set=j,h result=false
+Print storage=j,h,h
+
+
+has search=v storage=h,h,b
+isUnique set=h,b result=false
+Print storage=h,h,b
+
+
+has search=b storage=h,b,v
+Print storage=h,b,v
+
+
+has search=h storage=b,v,b
+isUnique set=b,v result=false
+Print storage=b,v,b
+
+
+has search=b storage=v,b,h
+Print storage=v,b,h
+
+
+has search=l storage=b,h,b
+isUnique set=b,h result=false
+Print storage=b,h,b
+
+
+has search=h storage=h,b,l
+Print storage=h,b,l
+
+
+has search=h storage=b,l,h
+Print storage=b,l,h
+
+
+has search=c storage=l,h,h
+isUnique set=l,h result=false
+Print storage=l,h,h
+
+
+has search=s storage=h,h,c
+isUnique set=h,c result=false
+Print storage=h,h,c
+
+
+has search=s storage=h,c,s
+Print storage=h,c,s
+
+
+has search=s storage=c,s,s
+Print storage=c,s,s
+
+
+has search=v storage=s,s,s
+isUnique set=s result=false
+Print storage=s,s,s
+
+
+has search=m storage=s,s,v
+isUnique set=s,v result=false
+Print storage=s,s,v
+
+
+has search=s storage=s,v,m
+Print storage=s,v,m
+
+
+has search=m storage=v,m,s
+Print storage=v,m,s
+
+
+has search=p storage=m,s,m
+isUnique set=m,s result=false
+Print storage=m,s,m
+
+
+has search=p storage=s,m,p
+Print storage=s,m,p
+
+
+has search=c storage=m,p,p
+isUnique set=m,p result=false
+Print storage=m,p,p
+
+
+has search=v storage=p,p,c
+isUnique set=p,c result=false
+Print storage=p,p,c
+
+
+has search=p storage=p,c,v
+Print storage=p,c,v
+
+
+has search=v storage=c,v,p
+Print storage=c,v,p
+
+
+has search=r storage=v,p,v
+isUnique set=v,p result=false
+Print storage=v,p,v
+
+
+has search=v storage=p,v,r
+Print storage=p,v,r
+
+
+has search=z storage=v,r,v
+isUnique set=v,r result=false
+Print storage=v,r,v
+
+
+has search=v storage=r,v,z
+Print storage=r,v,z
+
+
+has search=b storage=v,z,v
+isUnique set=v,z result=false
+Print storage=v,z,v
+
+
+has search=v storage=z,v,b
+Print storage=z,v,b
+
+
+has search=t storage=v,b,v
+isUnique set=v,b result=false
+Print storage=v,b,v
+
+
+has search=b storage=b,v,t
+Print storage=b,v,t
+
+
+has search=t storage=v,t,b
+Print storage=v,t,b
+
+
+has search=s storage=t,b,t
+isUnique set=t,b result=false
+Print storage=t,b,t
+
+
+has search=s storage=b,t,s
+Print storage=b,t,s
+
+
+has search=p storage=t,s,s
+isUnique set=t,s result=false
+Print storage=t,s,s
+
+
+has search=l storage=s,s,p
+isUnique set=s,p result=false
+Print storage=s,s,p
+
+
+has search=p storage=s,p,l
+Print storage=s,p,l
+
+
+has search=g storage=p,l,p
+isUnique set=p,l result=false
+Print storage=p,l,p
+
+
+has search=p storage=l,p,g
+Print storage=l,p,g
+
+
+has search=t storage=p,g,p
+isUnique set=p,g result=false
+Print storage=p,g,p
+
+
+has search=g storage=g,p,t
+Print storage=g,p,t
+
+
+has search=t storage=p,t,g
+Print storage=p,t,g
+
+
+has search=n storage=t,g,t
+isUnique set=t,g result=false
+Print storage=t,g,t
+
+
+has search=t storage=g,t,n
+Print storage=g,t,n
+
+
+has search=h storage=t,n,t
+isUnique set=t,n result=false
+Print storage=t,n,t
+
+
+has search=h storage=n,t,h
+Print storage=n,t,h
+
+
+has search=v storage=t,h,h
+isUnique set=t,h result=false
+Print storage=t,h,h
+
+
+has search=w storage=h,h,v
+isUnique set=h,v result=false
+Print storage=h,h,v
+
+
+has search=h storage=h,v,w
+Print storage=h,v,w
+
+
+has search=v storage=v,w,h
+Print storage=v,w,h
+
+
+has search=w storage=w,h,v
+Print storage=w,h,v
+
+
+has search=w storage=h,v,w
+Print storage=h,v,w
+
+
+has search=f storage=v,w,w
+isUnique set=v,w result=false
+Print storage=v,w,w
+
+
+has search=v storage=w,w,f
+isUnique set=w,f result=false
+Print storage=w,w,f
+
+
+has search=v storage=w,f,v
+Print storage=w,f,v
+
+
+has search=f storage=f,v,v
+Print storage=f,v,v
+
+
+has search=w storage=v,v,f
+isUnique set=v,f result=false
+Print storage=v,v,f
+
+
+has search=w storage=v,f,w
+Print storage=v,f,w
+
+
+has search=m storage=f,w,w
+isUnique set=f,w result=false
+Print storage=f,w,w
+
+
+has search=t storage=w,w,m
+isUnique set=w,m result=false
+Print storage=w,w,m
+
+
+has search=w storage=w,m,t
+Print storage=w,m,t
+
+
+has search=m storage=m,t,w
+Print storage=m,t,w
+
+
+has search=w storage=t,w,m
+Print storage=t,w,m
+
+
+has search=f storage=w,m,w
+isUnique set=w,m result=false
+Print storage=w,m,w
+
+
+has search=m storage=m,w,f
+Print storage=m,w,f
+
+
+has search=f storage=w,f,m
+Print storage=w,f,m
+
+
+has search=g storage=f,m,f
+isUnique set=f,m result=false
+Print storage=f,m,f
+
+
+has search=m storage=m,f,g
+Print storage=m,f,g
+
+
+has search=g storage=f,g,m
+Print storage=f,g,m
+
+
+has search=n storage=g,m,g
+isUnique set=g,m result=false
+Print storage=g,m,g
+
+
+has search=m storage=m,g,n
+Print storage=m,g,n
+
+
+has search=n storage=g,n,m
+Print storage=g,n,m
+
+
+has search=l storage=n,m,n
+isUnique set=n,m result=false
+Print storage=n,m,n
+
+
+has search=l storage=m,n,l
+Print storage=m,n,l
+
+
+has search=g storage=n,l,l
+isUnique set=n,l result=false
+Print storage=n,l,l
+
+
+has search=s storage=l,l,g
+isUnique set=l,g result=false
+Print storage=l,l,g
+
+
+has search=g storage=l,g,s
+Print storage=l,g,s
+
+
+has search=m storage=g,s,g
+isUnique set=g,s result=false
+Print storage=g,s,g
+
+
+has search=s storage=s,g,m
+Print storage=s,g,m
+
+
+has search=g storage=g,m,s
+Print storage=g,m,s
+
+
+has search=s storage=m,s,g
+Print storage=m,s,g
+
+
+has search=w storage=s,g,s
+isUnique set=s,g result=false
+Print storage=s,g,s
+
+
+has search=w storage=g,s,w
+Print storage=g,s,w
+
+
+has search=h storage=s,w,w
+isUnique set=s,w result=false
+Print storage=s,w,w
+
+
+has search=q storage=w,w,h
+isUnique set=w,h result=false
+Print storage=w,w,h
+
+
+has search=h storage=w,h,q
+Print storage=w,h,q
+
+
+has search=h storage=h,q,h
+Print storage=h,q,h
+
+
+has search=h storage=q,h,h
+Print storage=q,h,h
+
+
+has search=z storage=h,h,h
+isUnique set=h result=false
+Print storage=h,h,h
+
+
+has search=q storage=h,h,z
+isUnique set=h,z result=false
+Print storage=h,h,z
+
+
+has search=h storage=h,z,q
+Print storage=h,z,q
+
+
+has search=h storage=z,q,h
+Print storage=z,q,h
+
+
+has search=f storage=q,h,h
+isUnique set=q,h result=false
+Print storage=q,h,h
+
+
+has search=w storage=h,h,f
+isUnique set=h,f result=false
+Print storage=h,h,f
+
+
+has search=w storage=h,f,w
+Print storage=h,f,w
+
+
+has search=n storage=f,w,w
+isUnique set=f,w result=false
+Print storage=f,w,w
+
+
+has search=t storage=w,w,n
+isUnique set=w,n result=false
+Print storage=w,w,n
+
+
+has search=t storage=w,n,t
+Print storage=w,n,t
+
+
+has search=m storage=n,t,t
+isUnique set=n,t result=false
+Print storage=n,t,t
+
+
+has search=f storage=t,t,m
+isUnique set=t,m result=false
+Print storage=t,t,m
+
+
+has search=m storage=t,m,f
+Print storage=t,m,f
+
+
+has search=r storage=m,f,m
+isUnique set=m,f result=false
+Print storage=m,f,m
+
+
+has search=r storage=f,m,r
+Print storage=f,m,r
+
+
+has search=f storage=m,r,r
+isUnique set=m,r result=false
+Print storage=m,r,r
+
+
+has search=n storage=r,r,f
+isUnique set=r,f result=false
+Print storage=r,r,f
+
+
+has search=n storage=r,f,n
+Print storage=r,f,n
+
+
+has search=p storage=f,n,n
+isUnique set=f,n result=false
+Print storage=f,n,n
+
+
+has search=b storage=n,n,p
+isUnique set=n,p result=false
+Print storage=n,n,p
+
+
+has search=p storage=n,p,b
+Print storage=n,p,b
+
+
+has search=s storage=p,b,p
+isUnique set=p,b result=false
+Print storage=p,b,p
+
+
+has search=s storage=b,p,s
+Print storage=b,p,s
+
+
+has search=v storage=p,s,s
+isUnique set=p,s result=false
+Print storage=p,s,s
+
+
+has search=b storage=s,s,v
+isUnique set=s,v result=false
+Print storage=s,s,v
+
+
+has search=s storage=s,v,b
+Print storage=s,v,b
+
+
+has search=s storage=v,b,s
+Print storage=v,b,s
+
+
+has search=h storage=b,s,s
+isUnique set=b,s result=false
+Print storage=b,s,s
+
+
+has search=q storage=s,s,h
+isUnique set=s,h result=false
+Print storage=s,s,h
+
+
+has search=h storage=s,h,q
+Print storage=s,h,q
+
+
+has search=q storage=h,q,h
+Print storage=h,q,h
+
+
+has search=v storage=q,h,q
+isUnique set=q,h result=false
+Print storage=q,h,q
+
+
+has search=h storage=h,q,v
+Print storage=h,q,v
+
+
+has search=q storage=q,v,h
+Print storage=q,v,h
+
+
+has search=q storage=v,h,q
+Print storage=v,h,q
+
+
+has search=b storage=h,q,q
+isUnique set=h,q result=false
+Print storage=h,q,q
+
+
+has search=m storage=q,q,b
+isUnique set=q,b result=false
+Print storage=q,q,b
+
+
+has search=b storage=q,b,m
+Print storage=q,b,m
+
+
+has search=p storage=b,m,b
+isUnique set=b,m result=false
+Print storage=b,m,b
+
+
+has search=m storage=m,b,p
+Print storage=m,b,p
+
+
+has search=b storage=b,p,m
+Print storage=b,p,m
+
+
+has search=m storage=p,m,b
+Print storage=p,m,b
+
+
+has search=q storage=m,b,m
+isUnique set=m,b result=false
+Print storage=m,b,m
+
+
+has search=q storage=b,m,q
+Print storage=b,m,q
+
+
+has search=j storage=m,q,q
+isUnique set=m,q result=false
+Print storage=m,q,q
+
+
+has search=t storage=q,q,j
+isUnique set=q,j result=false
+Print storage=q,q,j
+
+
+has search=j storage=q,j,t
+Print storage=q,j,t
+
+
+has search=q storage=j,t,j
+isUnique set=j,t result=false
+Print storage=j,t,j
+
+
+has search=j storage=t,j,q
+Print storage=t,j,q
+
+
+has search=v storage=j,q,j
+isUnique set=j,q result=false
+Print storage=j,q,j
+
+
+has search=j storage=q,j,v
+Print storage=q,j,v
+
+
+has search=t storage=j,v,j
+isUnique set=j,v result=false
+Print storage=j,v,j
+
+
+has search=j storage=v,j,t
+Print storage=v,j,t
+
+
+has search=j storage=j,t,j
+Print storage=j,t,j
+
+
+has search=h storage=t,j,j
+isUnique set=t,j result=false
+Print storage=t,j,j
+
+
+has search=t storage=j,j,h
+isUnique set=j,h result=false
+Print storage=j,j,h
+
+
+has search=t storage=j,h,t
+Print storage=j,h,t
+
+
+has search=t storage=h,t,t
+Print storage=h,t,t
+
+
+has search=p storage=t,t,t
+isUnique set=t result=false
+Print storage=t,t,t
+
+
+has search=z storage=t,t,p
+isUnique set=t,p result=false
+Print storage=t,t,p
+
+
+has search=p storage=t,p,z
+Print storage=t,p,z
+
+
+has search=h storage=p,z,p
+isUnique set=p,z result=false
+Print storage=p,z,p
+
+
+has search=p storage=z,p,h
+Print storage=z,p,h
+
+
+has search=q storage=p,h,p
+isUnique set=p,h result=false
+Print storage=p,h,p
+
+
+has search=q storage=h,p,q
+Print storage=h,p,q
+
+
+has search=w storage=p,q,q
+isUnique set=p,q result=false
+Print storage=p,q,q
+
+
+has search=q storage=q,q,w
+Print storage=q,q,w
+
+
+has search=f storage=q,w,q
+isUnique set=q,w result=false
+Print storage=q,w,q
+
+
+has search=q storage=w,q,f
+Print storage=w,q,f
+
+
+has search=t storage=q,f,q
+isUnique set=q,f result=false
+Print storage=q,f,q
+
+
+has search=t storage=f,q,t
+Print storage=f,q,t
+
+
+has search=q storage=q,t,t
+Print storage=q,t,t
+
+
+has search=q storage=t,t,q
+Print storage=t,t,q
+
+
+has search=h storage=t,q,q
+isUnique set=t,q result=false
+Print storage=t,q,q
+
+
+has search=f storage=q,q,h
+isUnique set=q,h result=false
+Print storage=q,q,h
+
+
+has search=h storage=q,h,f
+Print storage=q,h,f
+
+
+has search=b storage=h,f,h
+isUnique set=h,f result=false
+Print storage=h,f,h
+
+
+has search=f storage=f,h,b
+Print storage=f,h,b
+
+
+has search=h storage=h,b,f
+Print storage=h,b,f
+
+
+has search=f storage=b,f,h
+Print storage=b,f,h
+
+
+has search=w storage=f,h,f
+isUnique set=f,h result=false
+Print storage=f,h,f
+
+
+has search=w storage=h,f,w
+Print storage=h,f,w
+
+
+has search=c storage=f,w,w
+isUnique set=f,w result=false
+Print storage=f,w,w
+
+
+has search=p storage=w,w,c
+isUnique set=w,c result=false
+Print storage=w,w,c
+
+
+has search=c storage=w,c,p
+Print storage=w,c,p
+
+
+has search=p storage=c,p,c
+Print storage=c,p,c
+
+
+has search=s storage=p,c,p
+isUnique set=p,c result=false
+Print storage=p,c,p
+
+
+has search=s storage=c,p,s
+Print storage=c,p,s
+
+
+has search=d storage=p,s,s
+isUnique set=p,s result=false
+Print storage=p,s,s
+
+
+has search=v storage=s,s,d
+isUnique set=s,d result=false
+Print storage=s,s,d
+
+
+has search=v storage=s,d,v
+Print storage=s,d,v
+
+
+has search=z storage=d,v,v
+isUnique set=d,v result=false
+Print storage=d,v,v
+
+
+has search=h storage=v,v,z
+isUnique set=v,z result=false
+Print storage=v,v,z
+
+
+has search=z storage=v,z,h
+Print storage=v,z,h
+
+
+has search=w storage=z,h,z
+isUnique set=z,h result=false
+Print storage=z,h,z
+
+
+has search=w storage=h,z,w
+Print storage=h,z,w
+
+
+has search=q storage=z,w,w
+isUnique set=z,w result=false
+Print storage=z,w,w
+
+
+has search=d storage=w,w,q
+isUnique set=w,q result=false
+Print storage=w,w,q
+
+
+has search=d storage=w,q,d
+Print storage=w,q,d
+
+
+has search=j storage=q,d,d
+isUnique set=q,d result=false
+Print storage=q,d,d
+
+
+has search=z storage=d,d,j
+isUnique set=d,j result=false
+Print storage=d,d,j
+
+
+has search=d storage=d,j,z
+Print storage=d,j,z
+
+
+has search=j storage=j,z,d
+Print storage=j,z,d
+
+
+has search=d storage=z,d,j
+Print storage=z,d,j
+
+
+has search=l storage=d,j,d
+isUnique set=d,j result=false
+Print storage=d,j,d
+
+
+has search=d storage=j,d,l
+Print storage=j,d,l
+
+
+has search=l storage=d,l,d
+Print storage=d,l,d
+
+
+has search=g storage=l,d,l
+isUnique set=l,d result=false
+Print storage=l,d,l
+
+
+has search=g storage=d,l,g
+Print storage=d,l,g
+
+
+has search=v storage=l,g,g
+isUnique set=l,g result=false
+Print storage=l,g,g
+
+
+has search=n storage=g,g,v
+isUnique set=g,v result=false
+Print storage=g,g,v
+
+
+has search=v storage=g,v,n
+Print storage=g,v,n
+
+
+has search=l storage=v,n,v
+isUnique set=v,n result=false
+Print storage=v,n,v
+
+
+has search=n storage=n,v,l
+Print storage=n,v,l
+
+
+has search=l storage=v,l,n
+Print storage=v,l,n
+
+
+has search=b storage=l,n,l
+isUnique set=l,n result=false
+Print storage=l,n,l
+
+
+has search=l storage=n,l,b
+Print storage=n,l,b
+
+
+has search=j storage=l,b,l
+isUnique set=l,b result=false
+Print storage=l,b,l
+
+
+has search=l storage=b,l,j
+Print storage=b,l,j
+
+
+has search=q storage=l,j,l
+isUnique set=l,j result=false
+Print storage=l,j,l
+
+
+has search=j storage=j,l,q
+Print storage=j,l,q
+
+
+has search=j storage=l,q,j
+Print storage=l,q,j
+
+
+has search=m storage=q,j,j
+isUnique set=q,j result=false
+Print storage=q,j,j
+
+
+has search=c storage=j,j,m
+isUnique set=j,m result=false
+Print storage=j,j,m
+
+
+has search=c storage=j,m,c
+Print storage=j,m,c
+
+
+has search=z storage=m,c,c
+isUnique set=m,c result=false
+Print storage=m,c,c
+
+
+has search=b storage=c,c,z
+isUnique set=c,z result=false
+Print storage=c,c,z
+
+
+has search=c storage=c,z,b
+Print storage=c,z,b
+
+
+has search=c storage=z,b,c
+Print storage=z,b,c
+
+
+has search=z storage=b,c,c
+isUnique set=b,c result=false
+Print storage=b,c,c
+
+
+has search=n storage=c,c,z
+isUnique set=c,z result=false
+Print storage=c,c,z
+
+
+has search=n storage=c,z,n
+Print storage=c,z,n
+
+
+has search=l storage=z,n,n
+isUnique set=z,n result=false
+Print storage=z,n,n
+
+
+has search=n storage=n,n,l
+Print storage=n,n,l
+
+
+has search=s storage=n,l,n
+isUnique set=n,l result=false
+Print storage=n,l,n
+
+
+has search=l storage=l,n,s
+Print storage=l,n,s
+
+
+has search=s storage=n,s,l
+Print storage=n,s,l
+
+
+has search=w storage=s,l,s
+isUnique set=s,l result=false
+Print storage=s,l,s
+
+
+has search=l storage=l,s,w
+Print storage=l,s,w
+
+
+has search=w storage=s,w,l
+Print storage=s,w,l
+
+
+has search=p storage=w,l,w
+isUnique set=w,l result=false
+Print storage=w,l,w
+
+
+has search=l storage=l,w,p
+Print storage=l,w,p
+
+
+has search=p storage=w,p,l
+Print storage=w,p,l
+
+
+has search=t storage=p,l,p
+isUnique set=p,l result=false
+Print storage=p,l,p
+
+
+has search=t storage=l,p,t
+Print storage=l,p,t
+
+
+has search=v storage=p,t,t
+isUnique set=p,t result=false
+Print storage=p,t,t
+
+
+has search=r storage=t,t,v
+isUnique set=t,v result=false
+Print storage=t,t,v
+
+
+has search=v storage=t,v,r
+Print storage=t,v,r
+
+
+has search=l storage=v,r,v
+isUnique set=v,r result=false
+Print storage=v,r,v
+
+
+has search=l storage=r,v,l
+Print storage=r,v,l
+
+
+has search=f storage=v,l,l
+isUnique set=v,l result=false
+Print storage=v,l,l
+
+
+has search=w storage=l,l,f
+isUnique set=l,f result=false
+Print storage=l,l,f
+
+
+has search=f storage=l,f,w
+Print storage=l,f,w
+
+
+has search=l storage=f,w,f
+isUnique set=f,w result=false
+Print storage=f,w,f
+
+
+has search=f storage=w,f,l
+Print storage=w,f,l
+
+
+has search=t storage=f,l,f
+isUnique set=f,l result=false
+Print storage=f,l,f
+
+
+has search=l storage=l,f,t
+Print storage=l,f,t
+
+
+has search=l storage=f,t,l
+Print storage=f,t,l
+
+
+has search=h storage=t,l,l
+isUnique set=t,l result=false
+Print storage=t,l,l
+
+
+has search=c storage=l,l,h
+isUnique set=l,h result=false
+Print storage=l,l,h
+
+
+has search=l storage=l,h,c
+Print storage=l,h,c
+
+
+has search=l storage=h,c,l
+Print storage=h,c,l
+
+
+has search=d storage=c,l,l
+isUnique set=c,l result=false
+Print storage=c,l,l
+
+
+has search=h storage=l,l,d
+isUnique set=l,d result=false
+Print storage=l,l,d
+
+
+has search=l storage=l,d,h
+Print storage=l,d,h
+
+
+has search=h storage=d,h,l
+Print storage=d,h,l
+
+
+has search=d storage=h,l,h
+isUnique set=h,l result=false
+Print storage=h,l,h
+
+
+has search=d storage=l,h,d
+Print storage=l,h,d
+
+
+has search=b storage=h,d,d
+isUnique set=h,d result=false
+Print storage=h,d,d
+
+
+has search=v storage=d,d,b
+isUnique set=d,b result=false
+Print storage=d,d,b
+
+
+has search=v storage=d,b,v
+Print storage=d,b,v
+
+
+has search=p storage=b,v,v
+isUnique set=b,v result=false
+Print storage=b,v,v
+
+
+has search=v storage=v,v,p
+Print storage=v,v,p
+
+
+has search=z storage=v,p,v
+isUnique set=v,p result=false
+Print storage=v,p,v
+
+
+has search=p storage=p,v,z
+Print storage=p,v,z
+
+
+has search=v storage=v,z,p
+Print storage=v,z,p
+
+
+has search=p storage=z,p,v
+Print storage=z,p,v
+
+
+has search=m storage=p,v,p
+isUnique set=p,v result=false
+Print storage=p,v,p
+
+
+has search=m storage=v,p,m
+Print storage=v,p,m
+
+
+has search=r storage=p,m,m
+isUnique set=p,m result=false
+Print storage=p,m,m
+
+
+has search=c storage=m,m,r
+isUnique set=m,r result=false
+Print storage=m,m,r
+
+
+has search=c storage=m,r,c
+Print storage=m,r,c
+
+
+has search=v storage=r,c,c
+isUnique set=r,c result=false
+Print storage=r,c,c
+
+
+has search=g storage=c,c,v
+isUnique set=c,v result=false
+Print storage=c,c,v
+
+
+has search=v storage=c,v,g
+Print storage=c,v,g
+
+
+has search=d storage=v,g,v
+isUnique set=v,g result=false
+Print storage=v,g,v
+
+
+has search=v storage=g,v,d
+Print storage=g,v,d
+
+
+has search=q storage=v,d,v
+isUnique set=v,d result=false
+Print storage=v,d,v
+
+
+has search=q storage=d,v,q
+Print storage=d,v,q
+
+
+has search=j storage=v,q,q
+isUnique set=v,q result=false
+Print storage=v,q,q
+
+
+has search=c storage=q,q,j
+isUnique set=q,j result=false
+Print storage=q,q,j
+
+
+has search=q storage=q,j,c
+Print storage=q,j,c
+
+
+has search=q storage=j,c,q
+Print storage=j,c,q
+
+
+has search=w storage=c,q,q
+isUnique set=c,q result=false
+Print storage=c,q,q
+
+
+has search=v storage=q,q,w
+isUnique set=q,w result=false
+Print storage=q,q,w
+
+
+has search=v storage=q,w,v
+Print storage=q,w,v
+
+
+has search=n storage=w,v,v
+isUnique set=w,v result=false
+Print storage=w,v,v
+
+
+has search=j storage=v,v,n
+isUnique set=v,n result=false
+Print storage=v,v,n
+
+
+has search=j storage=v,n,j
+Print storage=v,n,j
+
+
+has search=l storage=n,j,j
+isUnique set=n,j result=false
+Print storage=n,j,j
+
+
+has search=b storage=j,j,l
+isUnique set=j,l result=false
+Print storage=j,j,l
+
+
+has search=b storage=j,l,b
+Print storage=j,l,b
+
+
+has search=j storage=l,b,b
+isUnique set=l,b result=false
+Print storage=l,b,b
+
+
+has search=w storage=b,b,j
+isUnique set=b,j result=false
+Print storage=b,b,j
+
+
+has search=j storage=b,j,w
+Print storage=b,j,w
+
+
+has search=r storage=j,w,j
+isUnique set=j,w result=false
+Print storage=j,w,j
+
+
+has search=j storage=w,j,r
+Print storage=w,j,r
+
+
+has search=h storage=j,r,j
+isUnique set=j,r result=false
+Print storage=j,r,j
+
+
+has search=h storage=r,j,h
+Print storage=r,j,h
+
+
+has search=l storage=j,h,h
+isUnique set=j,h result=false
+Print storage=j,h,h
+
+
+has search=z storage=h,h,l
+isUnique set=h,l result=false
+Print storage=h,h,l
+
+
+has search=h storage=h,l,z
+Print storage=h,l,z
+
+
+has search=l storage=l,z,h
+Print storage=l,z,h
+
+
+has search=h storage=z,h,l
+Print storage=z,h,l
+
+
+has search=t storage=h,l,h
+isUnique set=h,l result=false
+Print storage=h,l,h
+
+
+has search=t storage=l,h,t
+Print storage=l,h,t
+
+
+has search=l storage=h,t,t
+isUnique set=h,t result=false
+Print storage=h,t,t
+
+
+has search=j storage=t,t,l
+isUnique set=t,l result=false
+Print storage=t,t,l
+
+
+has search=l storage=t,l,j
+Print storage=t,l,j
+
+
+has search=c storage=l,j,l
+isUnique set=l,j result=false
+Print storage=l,j,l
+
+
+has search=j storage=j,l,c
+Print storage=j,l,c
+
+
+has search=j storage=l,c,j
+Print storage=l,c,j
+
+
+has search=s storage=c,j,j
+isUnique set=c,j result=false
+Print storage=c,j,j
+
+
+has search=n storage=j,j,s
+isUnique set=j,s result=false
+Print storage=j,j,s
+
+
+has search=s storage=j,s,n
+Print storage=j,s,n
+
+
+has search=g storage=s,n,s
+isUnique set=s,n result=false
+Print storage=s,n,s
+
+
+has search=n storage=n,s,g
+Print storage=n,s,g
+
+
+has search=g storage=s,g,n
+Print storage=s,g,n
+
+
+has search=r storage=g,n,g
+isUnique set=g,n result=false
+Print storage=g,n,g
+
+
+has search=n storage=n,g,r
+Print storage=n,g,r
+
+
+has search=n storage=g,r,n
+Print storage=g,r,n
+
+
+has search=t storage=r,n,n
+isUnique set=r,n result=false
+Print storage=r,n,n
+
+
+has search=z storage=n,n,t
+isUnique set=n,t result=false
+Print storage=n,n,t
+
+
+has search=z storage=n,t,z
+Print storage=n,t,z
+
+
+has search=b storage=t,z,z
+isUnique set=t,z result=false
+Print storage=t,z,z
+
+
+has search=s storage=z,z,b
+isUnique set=z,b result=false
+Print storage=z,z,b
+
+
+has search=b storage=z,b,s
+Print storage=z,b,s
+
+
+has search=m storage=b,s,b
+isUnique set=b,s result=false
+Print storage=b,s,b
+
+
+has search=b storage=s,b,m
+Print storage=s,b,m
+
+
+has search=s storage=b,m,b
+isUnique set=b,m result=false
+Print storage=b,m,b
+
+
+has search=b storage=m,b,s
+Print storage=m,b,s
+
+
+has search=r storage=b,s,b
+isUnique set=b,s result=false
+Print storage=b,s,b
+
+
+has search=b storage=s,b,r
+Print storage=s,b,r
+
+
+has search=d storage=b,r,b
+isUnique set=b,r result=false
+Print storage=b,r,b
+
+
+has search=r storage=r,b,d
+Print storage=r,b,d
+
+
+has search=d storage=b,d,r
+Print storage=b,d,r
+
+
+has search=p storage=d,r,d
+isUnique set=d,r result=false
+Print storage=d,r,d
+
+
+has search=p storage=r,d,p
+Print storage=r,d,p
+
+
+has search=j storage=d,p,p
+isUnique set=d,p result=false
+Print storage=d,p,p
+
+
+has search=r storage=p,p,j
+isUnique set=p,j result=false
+Print storage=p,p,j
+
+
+has search=j storage=p,j,r
+Print storage=p,j,r
+
+
+has search=l storage=j,r,j
+isUnique set=j,r result=false
+Print storage=j,r,j
+
+
+has search=r storage=r,j,l
+Print storage=r,j,l
+
+
+has search=r storage=j,l,r
+Print storage=j,l,r
+
+
+has search=j storage=l,r,r
+isUnique set=l,r result=false
+Print storage=l,r,r
+
+
+has search=l storage=r,r,j
+isUnique set=r,j result=false
+Print storage=r,r,j
+
+
+has search=j storage=r,j,l
+Print storage=r,j,l
+
+
+has search=q storage=j,l,j
+isUnique set=j,l result=false
+Print storage=j,l,j
+
+
+has search=l storage=l,j,q
+Print storage=l,j,q
+
+
+has search=q storage=j,q,l
+Print storage=j,q,l
+
+
+has search=h storage=q,l,q
+isUnique set=q,l result=false
+Print storage=q,l,q
+
+
+has search=q storage=l,q,h
+Print storage=l,q,h
+
+
+has search=q storage=q,h,q
+Print storage=q,h,q
+
+
+has search=n storage=h,q,q
+isUnique set=h,q result=false
+Print storage=h,q,q
+
+
+has search=q storage=q,q,n
+Print storage=q,q,n
+
+
+has search=s storage=q,n,q
+isUnique set=q,n result=false
+Print storage=q,n,q
+
+
+has search=g storage=n,q,s
+isUnique set=n,q,s result=true
+Start of packet marker detected! marker=g index=60
